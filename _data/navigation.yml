@@ -1,0 +1,85 @@
+
+docs-en:
+  - title:      Start
+    children:
+      - title:  Quick Start
+        url:    /docs/en/quick-start
+      - title:  Structure
+        url:    /docs/en/structure
+  - title:      Customization
+    children:
+      - title:  Configuration
+        url:    /docs/en/configuration
+      - title:  Navigation
+        url:    /docs/en/navigation
+
+header:
+  - titles:
+      # @start locale config
+      en      : &EN       About
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /about.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Speakers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /speakers.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Schedule
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /schedule.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Challenge
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /challenge.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Papers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /papers.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Organizers
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /organizers.html
+
+  - titles:
+      # @start locale config
+      en      : &EN       Sponsors
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /sponsors.html
