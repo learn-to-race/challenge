@@ -31,7 +31,7 @@ github_username:
 
 # Build settings
 theme: jekyll-text-theme
-remote_theme: jekyll-text-theme
+remote_theme: kitian616/jekyll-text-theme
 plugins:
   - jekyll-feed
 
