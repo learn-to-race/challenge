@@ -26,4 +26,4 @@ $ bundle exec jekyll serve
 
 ## Modifications
 
-Most all modifications to the site are just in the respective ``.md`` files.
+Most all modifications to the site are just in the respective ``src/*.md`` files. Calling ```bundle exec jekyll serve``` will rebuild the site and place the public site files in the ```_site``` directory which can just be uploaded into the AWS S3 bucket to modify the public site.
