@@ -1,17 +1,25 @@
 
-docs-en:
-  - title:      Start
+challenge-nav:
+  - title:      Overview
     children:
-      - title:  Quick Start
-        url:    /docs/en/quick-start
-      - title:  Structure
-        url:    /docs/en/structure
-  - title:      Customization
+      - title:  Overview
+        url:    /challenge#overview
+  - title:      Rules
     children:
-      - title:  Configuration
-        url:    /docs/en/configuration
-      - title:  Navigation
-        url:    /docs/en/navigation
+      - title:  Action Space
+        url:    /challenge#action-space
+      - title:  Observation Space
+        url:    /challenge#observation-space
+  - title:      Evaluation
+    children:
+      - title:  Submissions
+        url:    /challenge#submissions
+      - title:  Pre-Evaluation Stage
+        url:    /challenge#pre-evaluation-stage
+      - title:  Evaluation Stage
+        url:    /challenge#evaluation-stage
+      - title:  Metrics
+        url:    /challenge#metrics
 
 header:
   - titles:

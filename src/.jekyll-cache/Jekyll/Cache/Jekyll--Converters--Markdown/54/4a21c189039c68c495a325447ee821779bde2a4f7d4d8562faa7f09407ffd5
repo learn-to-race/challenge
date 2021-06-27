@@ -1,22 +1,11 @@
----
-layout: article
-titles:
-  en      : &EN       Organizers
-  en-GB   : *EN
-  en-US   : *EN
-  en-CA   : *EN
-  en-AU   : *EN
-key: page-about
----
-
-<br>
+I"<p><br /></p>
 
 <div class="grid-container">
   <div class="grid grid--p-3">
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -31,7 +20,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -46,7 +35,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -61,7 +50,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -76,7 +65,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -91,7 +80,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image" style="max-width: 33%; padding: 12px;">
-          <img class="image image--sm" src="/assets/images/organizers/smiley.png"/>
+          <img class="image image--sm" src="/assets/images/organizers/smiley.png" />
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -105,3 +94,5 @@ key: page-about
     </div>
   <div>
 </div>
+</div></div>
+:ET
