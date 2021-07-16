@@ -89,19 +89,129 @@ observation =
 
 ## Evaluation
 
-### Submissions
-
-Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget dignissim eros ex sit amet dolor. Donec risus ex, luctus id orci ut, ultricies accumsan sem. Vivamus eget semper diam. Duis eget purus malesuada, efficitur orci rhoncus, ultricies enim. Maecenas eu feugiat augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent non lectus risus. Integer dictum consectetur urna. Sed porta dolor faucibus eros scelerisque, sit amet egestas magna fringilla. Nunc a cursus mi. Vivamus ut lectus nunc. Sed sit amet leo nibh. Ut dignissim eleifend suscipit.
-
-Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.
-
 ### Pre-Evaluation Stage
 
-Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.
+All submissions will have access to the unseen evaluation racetrack for 1-hour with unfrozen model weights. Participants are free to perform any model updates or exploration strategies that they choose. Submissions that fail to begin the evaluation stage within 1-hour of starting pre-evaluation will not be accepted.
 
 ### Evaluation Stage
 
-Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.
+The evaluation stage consists of *3* environment episodes beginning at the finish line of the evaluation racetrack. The official Learn-to-Race metrics will be recorded and displayed on the leaderboard following submission.
+
+### Submission Instructions
+
+#### Environment
+
+Your submission will be run in an Ubuntu 18.04, [nvidia/cudagl](https://hub.docker.com/r/nvidia/cudagl) Docker image with Cuda 11.0.3 drivers. By default, a Python 3.6.9 environment is used, and we expect submissions to use Python3 versions >= 3.6.9. The evaluation structure allows for a variety of Python3 environments:
+
+* For conda environments, include `environment.yml` in the top directory of your submission
+* For pip3 installation, include `requirements.txt` in the top directory of your submission, run after the above step
+* For Python3 virtual environments, include a directory named `venv` in the top directory of your submission, and our script will activate `venv/bin/activate`
+
+#### File Structure
+
+You submission will be a single file named `submission.zip` which contains:
+
+```bash
+.
+│   # required files
+├── eval.py
+├── conf.yml
+│
+│   # optional environment files & directories
+├── environment.yml
+├── requirements.txt
+├── venv
+│   ├── bin
+│       ├── activate
+│        ...
+│   ├── include
+│   ...
+│
+│   # optional additional files
+├── (model weights)
+├── (additional utilities)
+└── ...
+```
+
+#### eval.py
+
+This is the primary file that you will modify and include in your submission. The [template](https://github.com/hermgerm29/learn-to-race/blob/main/l2r/eval/eval.py) you will use is located in `l2r/eval/eval.py` in the Learn-to-Race repository. You are free to modify any methods that are marked **"Modify this method"**, and you will, at minimum, need to modify the following methods:
+
+* `Evaluator.load_agent` to create your agent and load in policy weights
+* `Evaluator.pre_evaluate` to define your 1-hour pre-evaluation phase during which you will likely want to take gradient updates and perform exploration and fine-tuning on the new racetrack
+
+A variety of mechanisms are implemented to strictly check that **"Do not modify"** methods are not modified, and submissions that do modify these methods will result in a thrown exception and no provided score.
+
+#### conf.yml
+
+The other required file is `conf.yml` which defines a number of configurations for the racing environment. A template of this file is shown below. We also impose a few modest restrictions including:
+
+* You must include the keys `env_kwargs` and `sim_kwargs` in the configuration
+* You cannot use segmentation cameras during pre-evaluation or evaluation
+* We impose a maximum limit of 1080 pixels for a single camera dimension
+* A maximum observation delay of `0.15` seconds
+
+Furthermore, we recommend:
+
+* Not modifying any of the interface addresses
+* Removing cameras that you don't intend on using
+
+```yaml
+env_kwargs:
+  multimodal: True
+  max_timesteps: 500
+  obs_delay: 0.1
+  not_moving_timeout: 50
+  reward_pol: 'default'
+  reward_kwargs:
+    oob_penalty: 5.0
+    min_oob_penalty: 25.0
+  # Our script will replace controller_kwargs with the appropriate settings
+  controller_kwargs:
+    sim_version: 'ArrivalSim-linux-0.7.0-cmu4'
+    quiet: True
+    user: 'ubuntu'
+    start_container: False
+    sim_path: '/home/ArrivalSim-linux-0.7.0.182276/LinuxNoEditor'
+  action_if_kwargs:
+    max_accel: 6.
+    min_accel: 3.
+    max_steer: 0.2
+    min_steer: -0.2
+    ip: '0.0.0.0'
+    port: 7077
+  pose_if_kwargs:
+    ip: '0.0.0.0'
+    port: 7078
+  cameras:
+    CameraFrontRGB:
+      Addr: 'tcp://0.0.0.0:8008'
+      Format: ColorBGR8
+      FOVAngle: 90
+      Width: 512
+      Height: 384
+      bAutoAdvertise: True
+    CameraLeftRGB:
+      Addr: 'tcp://0.0.0.0:8009'
+      Format: ColorBGR8
+      FOVAngle: 90
+      Width: 512
+      Height: 384
+      bAutoAdvertise: True
+    CameraRightRGB:
+      Addr: 'tcp://0.0.0.0:8010'
+      Format: ColorBGR8
+      FOVAngle: 90
+      Width: 512
+      Height: 384
+      bAutoAdvertise: True
+
+sim_kwargs:
+  racetrack: ['VegasNorthRoad']
+  driver_params:
+    DriverAPIClass: 'VApiUdp'
+    DriverAPI_UDP_SendAddress: '0.0.0.0'
+```
 
 
 ### Metrics

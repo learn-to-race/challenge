@@ -12,12 +12,12 @@ challenge-nav:
         url:    /challenge.html#observation-space
   - title:      Evaluation
     children:
-      - title:  Submissions
-        url:    /challenge.html#submissions
       - title:  Pre-Evaluation Stage
         url:    /challenge.html#pre-evaluation-stage
       - title:  Evaluation Stage
         url:    /challenge.html#evaluation-stage
+      - title:  Submission Instructions
+        url:    /challenge.html#submission-instructions
       - title:  Metrics
         url:    /challenge.html#metrics
 

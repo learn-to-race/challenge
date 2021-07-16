@@ -265,7 +265,7 @@
 
     <div class="grid page__grid">
 
-      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Overview</li><li class="toc-h2"><a href="/challenge#overview">Overview</a></li><li class="toc-h1">Rules</li><li class="toc-h2"><a href="/challenge#action-space">Action Space</a></li><li class="toc-h2"><a href="/challenge#observation-space">Observation Space</a></li><li class="toc-h1">Evaluation</li><li class="toc-h2"><a href="/challenge#submissions">Submissions</a></li><li class="toc-h2"><a href="/challenge#pre-evaluation-stage">Pre-Evaluation Stage</a></li><li class="toc-h2"><a href="/challenge#evaluation-stage">Evaluation Stage</a></li><li class="toc-h2"><a href="/challenge#metrics">Metrics</a></li></ul></div></div><div class="page__main js-page-main cell cell--auto">
+      <div class="page__sidebar d-print-none"><div class="sidebar-toc"><ul class="toc toc--navigator"><li class="toc-h1">Overview</li><li class="toc-h2"><a href="/challenge.html#overview">Overview</a></li><li class="toc-h1">Rules</li><li class="toc-h2"><a href="/challenge.html#action-space">Action Space</a></li><li class="toc-h2"><a href="/challenge.html#observation-space">Observation Space</a></li><li class="toc-h1">Evaluation</li><li class="toc-h2"><a href="/challenge.html#pre-evaluation-stage">Pre-Evaluation Stage</a></li><li class="toc-h2"><a href="/challenge.html#evaluation-stage">Evaluation Stage</a></li><li class="toc-h2"><a href="/challenge.html#submission-instructions">Submission Instructions</a></li><li class="toc-h2"><a href="/challenge.html#metrics">Metrics</a></li></ul></div></div><div class="page__main js-page-main cell cell--auto">
 
       <div class="page__main-inner"><div class="page__header d-print-none"><header class="header"><div class="main">
       <div class="header__title">
@@ -585,19 +585,135 @@ var SOURCES = window.TEXT_VARIABLES.sources;
 
 <h2 id="evaluation">Evaluation</h2>
 
-<h3 id="submissions">Submissions</h3>
-
-<p>Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget dignissim eros ex sit amet dolor. Donec risus ex, luctus id orci ut, ultricies accumsan sem. Vivamus eget semper diam. Duis eget purus malesuada, efficitur orci rhoncus, ultricies enim. Maecenas eu feugiat augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent non lectus risus. Integer dictum consectetur urna. Sed porta dolor faucibus eros scelerisque, sit amet egestas magna fringilla. Nunc a cursus mi. Vivamus ut lectus nunc. Sed sit amet leo nibh. Ut dignissim eleifend suscipit.</p>
-
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
-
 <h3 id="pre-evaluation-stage">Pre-Evaluation Stage</h3>
 
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
+<p>All submissions will have access to the unseen evaluation racetrack for 1-hour with unfrozen model weights. Participants are free to perform any model updates or exploration strategies that they choose. Submissions that fail to begin the evaluation stage within 1-hour of starting pre-evaluation will not be accepted.</p>
 
 <h3 id="evaluation-stage">Evaluation Stage</h3>
 
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
+<p>The evaluation stage consists of <em>3</em> environment episodes beginning at the finish line of the evaluation racetrack. The official Learn-to-Race metrics will be recorded and displayed on the leaderboard following submission.</p>
+
+<h3 id="submission-instructions">Submission Instructions</h3>
+
+<h4 id="environment">Environment</h4>
+
+<p>Your submission will be run in an Ubuntu 18.04, <a href="https://hub.docker.com/r/nvidia/cudagl">nvidia/cudagl</a> Docker image with Cuda 11.0.3 drivers. By default, a Python 3.6.9 environment is used, and we expect submissions to use Python3 versions &gt;= 3.6.9. The evaluation structure allows for a variety of Python3 environments:</p>
+
+<ul>
+  <li>For conda environments, include <code class="language-plaintext highlighter-rouge">environment.yml</code> in the top directory of your submission</li>
+  <li>For pip3 installation, include <code class="language-plaintext highlighter-rouge">requirements.txt</code> in the top directory of your submission, run after the above step</li>
+  <li>For Python3 virtual environments, include a directory named <code class="language-plaintext highlighter-rouge">venv</code> in the top directory of your submission, and our script will activate <code class="language-plaintext highlighter-rouge">venv/bin/activate</code></li>
+</ul>
+
+<h4 id="file-structure">File Structure</h4>
+
+<p>You submission will be a single file named <code class="language-plaintext highlighter-rouge">submission.zip</code> which contains:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">.</span>
+│   <span class="c"># required files</span>
+├── eval.py
+├── conf.yml
+│
+│   <span class="c"># optional environment files &amp; directories</span>
+├── environment.yml
+├── requirements.txt
+├── venv
+│   ├── bin
+│       ├── activate
+│        ...
+│   ├── include
+│   ...
+│
+│   <span class="c"># optional additional files</span>
+├── <span class="o">(</span>model weights<span class="o">)</span>
+├── <span class="o">(</span>additional utilities<span class="o">)</span>
+└── ...
+</code></pre></div></div>
+
+<h4 id="evalpy">eval.py</h4>
+
+<p>This is the primary file that you will modify and include in your submission. The <a href="https://github.com/hermgerm29/learn-to-race/blob/main/l2r/eval/eval.py">template</a> you will use is located in <code class="language-plaintext highlighter-rouge">l2r/eval/eval.py</code> in the Learn-to-Race repository. You are free to modify any methods that are marked <strong>“Modify this method”</strong>, and you will, at minimum, need to modify the following methods:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Evaluator.load_agent</code> to create your agent and load in policy weights</li>
+  <li><code class="language-plaintext highlighter-rouge">Evaluator.pre_evaluate</code> to define your 1-hour pre-evaluation phase during which you will likely want to take gradient updates and perform exploration and fine-tuning on the new racetrack</li>
+</ul>
+
+<p>A variety of mechanisms are implemented to strictly check that <strong>“Do not modify”</strong> methods are not modified, and submissions that do modify these methods will result in a thrown exception and no provided score.</p>
+
+<h4 id="confyml">conf.yml</h4>
+
+<p>The other required file is <code class="language-plaintext highlighter-rouge">conf.yml</code> which defines a number of configurations for the racing environment. A template of this file is shown below. We also impose a few modest restrictions including:</p>
+
+<ul>
+  <li>You must include the keys <code class="language-plaintext highlighter-rouge">env_kwargs</code> and <code class="language-plaintext highlighter-rouge">sim_kwargs</code> in the configuration</li>
+  <li>You cannot use segmentation cameras during pre-evaluation or evaluation</li>
+  <li>We impose a maximum limit of 1080 pixels for a single camera dimension</li>
+  <li>A maximum observation delay of <code class="language-plaintext highlighter-rouge">0.15</code> seconds</li>
+</ul>
+
+<p>Furthermore, we recommend:</p>
+
+<ul>
+  <li>Not modifying any of the interface addresses</li>
+  <li>Removing cameras that you don’t intend on using</li>
+</ul>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">env_kwargs</span><span class="pi">:</span>
+  <span class="na">multimodal</span><span class="pi">:</span> <span class="s">True</span>
+  <span class="na">max_timesteps</span><span class="pi">:</span> <span class="m">500</span>
+  <span class="na">obs_delay</span><span class="pi">:</span> <span class="m">0.1</span>
+  <span class="na">not_moving_timeout</span><span class="pi">:</span> <span class="m">50</span>
+  <span class="na">reward_pol</span><span class="pi">:</span> <span class="s1">'</span><span class="s">default'</span>
+  <span class="na">reward_kwargs</span><span class="pi">:</span>
+    <span class="na">oob_penalty</span><span class="pi">:</span> <span class="m">5.0</span>
+    <span class="na">min_oob_penalty</span><span class="pi">:</span> <span class="m">25.0</span>
+  <span class="c1"># Our script will replace controller_kwargs with the appropriate settings</span>
+  <span class="na">controller_kwargs</span><span class="pi">:</span>
+    <span class="na">sim_version</span><span class="pi">:</span> <span class="s1">'</span><span class="s">ArrivalSim-linux-0.7.0-cmu4'</span>
+    <span class="na">quiet</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">user</span><span class="pi">:</span> <span class="s1">'</span><span class="s">ubuntu'</span>
+    <span class="na">start_container</span><span class="pi">:</span> <span class="s">False</span>
+    <span class="na">sim_path</span><span class="pi">:</span> <span class="s1">'</span><span class="s">/home/ArrivalSim-linux-0.7.0.182276/LinuxNoEditor'</span>
+  <span class="na">action_if_kwargs</span><span class="pi">:</span>
+    <span class="na">max_accel</span><span class="pi">:</span> <span class="s">6.</span>
+    <span class="na">min_accel</span><span class="pi">:</span> <span class="s">3.</span>
+    <span class="na">max_steer</span><span class="pi">:</span> <span class="m">0.2</span>
+    <span class="na">min_steer</span><span class="pi">:</span> <span class="s">-0.2</span>
+    <span class="na">ip</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+    <span class="na">port</span><span class="pi">:</span> <span class="m">7077</span>
+  <span class="na">pose_if_kwargs</span><span class="pi">:</span>
+    <span class="na">ip</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+    <span class="na">port</span><span class="pi">:</span> <span class="m">7078</span>
+  <span class="na">cameras</span><span class="pi">:</span>
+    <span class="na">CameraFrontRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8008'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">CameraLeftRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8009'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">CameraRightRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8010'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+
+<span class="na">sim_kwargs</span><span class="pi">:</span>
+  <span class="na">racetrack</span><span class="pi">:</span> <span class="pi">[</span><span class="s1">'</span><span class="s">VegasNorthRoad'</span><span class="pi">]</span>
+  <span class="na">driver_params</span><span class="pi">:</span>
+    <span class="na">DriverAPIClass</span><span class="pi">:</span> <span class="s1">'</span><span class="s">VApiUdp'</span>
+    <span class="na">DriverAPI_UDP_SendAddress</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+</code></pre></div></div>
 
 <h3 id="metrics">Metrics</h3>
 
@@ -606,7 +722,7 @@ var SOURCES = window.TEXT_VARIABLES.sources;
 
 <!-- end custom article footer snippet -->
 </footer>
-<div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/challenge#metrics">Metrics</a></div></div></div>
+<div class="article__section-navigator clearfix"><div class="previous"><span>PREVIOUS</span><a href="/challenge.html#metrics">Metrics</a></div></div></div>
 
 </div>
 
