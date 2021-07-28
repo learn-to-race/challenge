@@ -11,7 +11,7 @@ script: scripts/build.sh
 # branch whitelist
 branches:
   only:
-  - site     # test the gh-pages branch
+  - main     # test the gh-pages branch
 
 deploy:
   skip_cleanup: true
