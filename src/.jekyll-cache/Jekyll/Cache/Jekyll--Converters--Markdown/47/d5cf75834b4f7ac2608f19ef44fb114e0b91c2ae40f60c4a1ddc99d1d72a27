@@ -1,4 +1,4 @@
-I"q=<script>(function() {
+I"�[<script>(function() {
   var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
     function swiper(options) {
@@ -200,8 +200,7 @@
     }
     $.fn.swiper = swiper;
   });
-})();
-var SOURCES = window.TEXT_VARIABLES.sources;
+})();var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
     $('.swiper-demo').swiper();
   });
@@ -282,78 +281,145 @@ var SOURCES = window.TEXT_VARIABLES.sources;
 <span class="na">2</span><span class="pi">:</span> <span class="s">nearest track index</span>
 <span class="na">3-5</span><span class="pi">:</span> <span class="s">direction velocity in m/s</span>
 <span class="na">6-8</span><span class="pi">:</span> <span class="s">directional acceleration in m/s^2</span>
+<span class="na">9-11</span><span class="pi">:</span> <span class="s">directional angular velocity</span>
+<span class="na">12-14</span><span class="pi">:</span> <span class="s">vehicle yaw, pitch, and roll, respectively</span>
+<span class="na">15-17</span><span class="pi">:</span> <span class="s">center of vehicle coordinates in the format (y, x, z)</span>
+<span class="na">18-21</span><span class="pi">:</span> <span class="s">wheel revolutions per minute (per wheel)</span>
+<span class="na">22-25</span><span class="pi">:</span> <span class="s">wheel braking (per wheel)</span>
+<span class="na">26-29</span><span class="pi">:</span> <span class="s">wheel torque (per wheel)</span>
 </code></pre></div></div>
-
-<table>
-  <tbody>
-    <tr>
-      <td>Array Indicies</td>
-      <td>Data</td>
-    </tr>
-  </tbody>
-  <tfoot>
-    <tr>
-      <td>0</td>
-      <td>steering request</td>
-    </tr>
-    <tr>
-      <td>1</td>
-      <td>gear request</td>
-    </tr>
-    <tr>
-      <td>2</td>
-      <td>nearest track index</td>
-    </tr>
-    <tr>
-      <td>3, 4, 5</td>
-      <td>direction velocity in m/s</td>
-    </tr>
-    <tr>
-      <td>6, 7, 8</td>
-      <td>directional acceleration in m/s^2</td>
-    </tr>
-    <tr>
-      <td>9, 10, 11</td>
-      <td>directional angular velocity</td>
-    </tr>
-    <tr>
-      <td>12, 13, 14</td>
-      <td>vehicle yaw, pitch, and roll, respectively</td>
-    </tr>
-    <tr>
-      <td>15, 16, 17</td>
-      <td>center of vehicle coordinates in the format (y, x, z)</td>
-    </tr>
-    <tr>
-      <td>18, 19, 20, 21</td>
-      <td>wheel revolutions per minute (per wheel)</td>
-    </tr>
-    <tr>
-      <td>22, 23, 24, 25</td>
-      <td>wheel braking (per wheel)</td>
-    </tr>
-    <tr>
-      <td>26, 27, 28, 29</td>
-      <td>wheel torque (per wheel)</td>
-    </tr>
-  </tfoot>
-</table>
 
 <h2 id="evaluation">Evaluation</h2>
 
-<h3 id="submissions">Submissions</h3>
-
-<p>Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget dignissim eros ex sit amet dolor. Donec risus ex, luctus id orci ut, ultricies accumsan sem. Vivamus eget semper diam. Duis eget purus malesuada, efficitur orci rhoncus, ultricies enim. Maecenas eu feugiat augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent non lectus risus. Integer dictum consectetur urna. Sed porta dolor faucibus eros scelerisque, sit amet egestas magna fringilla. Nunc a cursus mi. Vivamus ut lectus nunc. Sed sit amet leo nibh. Ut dignissim eleifend suscipit.</p>
-
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
-
 <h3 id="pre-evaluation-stage">Pre-Evaluation Stage</h3>
 
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
+<p>All submissions will have access to the unseen evaluation racetrack for 1-hour with unfrozen model weights. Participants are free to perform any model updates or exploration strategies that they choose. Submissions that fail to begin the evaluation stage within 1-hour of starting pre-evaluation will not be accepted.</p>
 
 <h3 id="evaluation-stage">Evaluation Stage</h3>
 
-<p>Mauris nec finibus neque, eu facilisis nunc. Nulla in tincidunt leo, sit amet tristique magna. Proin lacinia libero et justo vestibulum, ut tristique sapien venenatis. Curabitur finibus sapien nec justo bibendum posuere. Etiam et varius ex, id auctor eros. Aenean mattis porttitor turpis quis blandit. Nunc ut aliquam nibh.</p>
+<p>The evaluation stage consists of <em>3</em> environment episodes beginning at the finish line of the evaluation racetrack. The official Learn-to-Race metrics will be recorded and displayed on the leaderboard following submission.</p>
+
+<h3 id="submission-instructions">Submission Instructions</h3>
+
+<h4 id="environment">Environment</h4>
+
+<p>Your submission will be run in an Ubuntu 18.04, <a href="https://hub.docker.com/r/nvidia/cudagl">nvidia/cudagl</a> Docker image with Cuda 11.0.3 drivers. By default, a Python 3.6.9 environment is used, and we expect submissions to use Python3 versions &gt;= 3.6.9. The evaluation structure allows for a variety of Python3 environments:</p>
+
+<ul>
+  <li>For conda environments, include <code class="language-plaintext highlighter-rouge">environment.yml</code> in the top directory of your submission</li>
+  <li>For pip3 installation, include <code class="language-plaintext highlighter-rouge">requirements.txt</code> in the top directory of your submission, run after the above step</li>
+  <li>For Python3 virtual environments, include a directory named <code class="language-plaintext highlighter-rouge">venv</code> in the top directory of your submission, and our script will activate <code class="language-plaintext highlighter-rouge">venv/bin/activate</code></li>
+</ul>
+
+<h4 id="file-structure">File Structure</h4>
+
+<p>You submission will be a single file named <code class="language-plaintext highlighter-rouge">submission.zip</code> which contains:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">.</span>
+│   <span class="c"># required files</span>
+├── eval.py
+├── conf.yml
+│
+│   <span class="c"># optional environment files &amp; directories</span>
+├── environment.yml
+├── requirements.txt
+├── venv
+│   ├── bin
+│       ├── activate
+│        ...
+│   ├── include
+│   ...
+│
+│   <span class="c"># optional additional files</span>
+├── <span class="o">(</span>model weights<span class="o">)</span>
+├── <span class="o">(</span>additional utilities<span class="o">)</span>
+└── ...
+</code></pre></div></div>
+
+<h4 id="evalpy">eval.py</h4>
+
+<p>This is the primary file that you will modify and include in your submission. The <a href="https://github.com/hermgerm29/learn-to-race/blob/main/l2r/eval/eval.py">template</a> you will use is located in <code class="language-plaintext highlighter-rouge">l2r/eval/eval.py</code> in the Learn-to-Race repository. You are free to modify any methods that are marked <strong>“Modify this method”</strong>, and you will, at minimum, need to modify the following methods:</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">Evaluator.load_agent</code> to create your agent and load in policy weights</li>
+  <li><code class="language-plaintext highlighter-rouge">Evaluator.pre_evaluate</code> to define your 1-hour pre-evaluation phase during which you will likely want to take gradient updates and perform exploration and fine-tuning on the new racetrack</li>
+</ul>
+
+<p>A variety of mechanisms are implemented to strictly check that <strong>“Do not modify”</strong> methods are not modified, and submissions that do modify these methods will result in a thrown exception and no provided score.</p>
+
+<h4 id="confyml">conf.yml</h4>
+
+<p>The other required file is <code class="language-plaintext highlighter-rouge">conf.yml</code> which defines a number of configurations for the racing environment. A template of this file is shown below. We also impose a few modest restrictions including:</p>
+
+<ul>
+  <li>You must include the keys <code class="language-plaintext highlighter-rouge">env_kwargs</code> and <code class="language-plaintext highlighter-rouge">sim_kwargs</code> in the configuration</li>
+  <li>You cannot use segmentation cameras during pre-evaluation or evaluation</li>
+  <li>We impose a maximum limit of 1080 pixels for a single camera dimension</li>
+  <li>A maximum observation delay of <code class="language-plaintext highlighter-rouge">0.15</code> seconds</li>
+</ul>
+
+<p>Furthermore, we recommend:</p>
+
+<ul>
+  <li>Not modifying any of the interface addresses</li>
+  <li>Removing cameras that you don’t intend on using</li>
+</ul>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">env_kwargs</span><span class="pi">:</span>
+  <span class="na">multimodal</span><span class="pi">:</span> <span class="s">True</span>
+  <span class="na">max_timesteps</span><span class="pi">:</span> <span class="m">500</span>
+  <span class="na">obs_delay</span><span class="pi">:</span> <span class="m">0.1</span>
+  <span class="na">not_moving_timeout</span><span class="pi">:</span> <span class="m">50</span>
+  <span class="na">reward_pol</span><span class="pi">:</span> <span class="s1">'</span><span class="s">default'</span>
+  <span class="na">reward_kwargs</span><span class="pi">:</span>
+    <span class="na">oob_penalty</span><span class="pi">:</span> <span class="m">5.0</span>
+    <span class="na">min_oob_penalty</span><span class="pi">:</span> <span class="m">25.0</span>
+  <span class="c1"># Our script will replace controller_kwargs with the appropriate settings</span>
+  <span class="na">controller_kwargs</span><span class="pi">:</span>
+    <span class="na">sim_version</span><span class="pi">:</span> <span class="s1">'</span><span class="s">ArrivalSim-linux-0.7.0-cmu4'</span>
+    <span class="na">quiet</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">user</span><span class="pi">:</span> <span class="s1">'</span><span class="s">ubuntu'</span>
+    <span class="na">start_container</span><span class="pi">:</span> <span class="s">False</span>
+    <span class="na">sim_path</span><span class="pi">:</span> <span class="s1">'</span><span class="s">/home/ArrivalSim-linux-0.7.0.182276/LinuxNoEditor'</span>
+  <span class="na">action_if_kwargs</span><span class="pi">:</span>
+    <span class="na">max_accel</span><span class="pi">:</span> <span class="s">6.</span>
+    <span class="na">min_accel</span><span class="pi">:</span> <span class="s">3.</span>
+    <span class="na">max_steer</span><span class="pi">:</span> <span class="m">0.2</span>
+    <span class="na">min_steer</span><span class="pi">:</span> <span class="s">-0.2</span>
+    <span class="na">ip</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+    <span class="na">port</span><span class="pi">:</span> <span class="m">7077</span>
+  <span class="na">pose_if_kwargs</span><span class="pi">:</span>
+    <span class="na">ip</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+    <span class="na">port</span><span class="pi">:</span> <span class="m">7078</span>
+  <span class="na">cameras</span><span class="pi">:</span>
+    <span class="na">CameraFrontRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8008'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">CameraLeftRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8009'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+    <span class="na">CameraRightRGB</span><span class="pi">:</span>
+      <span class="na">Addr</span><span class="pi">:</span> <span class="s1">'</span><span class="s">tcp://0.0.0.0:8010'</span>
+      <span class="na">Format</span><span class="pi">:</span> <span class="s">ColorBGR8</span>
+      <span class="na">FOVAngle</span><span class="pi">:</span> <span class="m">90</span>
+      <span class="na">Width</span><span class="pi">:</span> <span class="m">512</span>
+      <span class="na">Height</span><span class="pi">:</span> <span class="m">384</span>
+      <span class="na">bAutoAdvertise</span><span class="pi">:</span> <span class="s">True</span>
+
+<span class="na">sim_kwargs</span><span class="pi">:</span>
+  <span class="na">racetrack</span><span class="pi">:</span> <span class="pi">[</span><span class="s1">'</span><span class="s">VegasNorthRoad'</span><span class="pi">]</span>
+  <span class="na">driver_params</span><span class="pi">:</span>
+    <span class="na">DriverAPIClass</span><span class="pi">:</span> <span class="s1">'</span><span class="s">VApiUdp'</span>
+    <span class="na">DriverAPI_UDP_SendAddress</span><span class="pi">:</span> <span class="s1">'</span><span class="s">0.0.0.0'</span>
+</code></pre></div></div>
 
 <h3 id="metrics">Metrics</h3>
 
