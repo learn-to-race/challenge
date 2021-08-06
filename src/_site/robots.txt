@@ -1,1 +1,1 @@
-Sitemap: /learn-to-race.org/learn-to-race-challenge/sitemap.xml
+Sitemap: learn-to-race.org/learn-to-race-challenge/sitemap.xml
