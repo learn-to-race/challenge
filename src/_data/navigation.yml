@@ -24,7 +24,7 @@ challenge-nav:
 header:
   - titles:
       # @start locale config
-      en      : &EN       About
+      en      : &EN       Overview
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -32,29 +32,29 @@ header:
       # @end locale config
     url: /about.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Speakers
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /speakers.html
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Speakers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /speakers.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Schedule
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /schedule.html
 
   - titles:
       # @start locale config
-      en      : &EN       Schedule
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /schedule.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       Challenge
+      en      : &EN       Rules
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
