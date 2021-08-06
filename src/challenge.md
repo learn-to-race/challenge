@@ -29,13 +29,13 @@ Participants will be evaluated on their racing performance on an unseen track, t
 <div class="swiper swiper-demo">
   <div class="swiper__wrapper">
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/lvms-overhead.png" alt="LVMS">
+      <img src="{{ site.baseurl }}/assets/images/challenge/lvms-overhead.png" alt="LVMS">
     </div>
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/anglesey-overhead.png" alt="LVMS">
+      <img src="{{ site.baseurl }}/assets/images/challenge/anglesey-overhead.png" alt="LVMS">
     </div>
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/thruxton-overhead.png" alt="LVMS">
+      <img src="{{ site.baseurl }}/assets/images/challenge/thruxton-overhead.png" alt="LVMS">
     </div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>

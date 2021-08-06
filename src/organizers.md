@@ -16,7 +16,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image image--sm" src="/assets/images/organizers/jonathan_francis.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
+          <img class="image image--sm" src="{{ site.baseurl }}/assets/images/organizers/jonathan_francis.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -31,7 +31,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image image--sm" src="/assets/images/organizers/Siddha_ganju.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
+          <img class="image image--sm" src="{{ site.baseurl }}/assets/images/organizers/Siddha_ganju.jpg" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -46,7 +46,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image image--sm" src="/assets/images/organizers/jimmy_herman.png" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
+          <img class="image image--sm" src="{{ site.baseurl }}/assets/images/organizers/jimmy_herman.png" style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
         </div>
         <div class="card__content">
           <div class="card__header">
@@ -61,7 +61,7 @@ key: page-about
     <div class="cell cell--6">
       <div class="card">
         <div class="card__image">
-          <img class="image image--sm" src="/assets/images/organizers/bingqing_chen.jpg"  style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
+          <img class="image image--sm" src="{{ site.baseurl }}/assets/images/organizers/bingqing_chen.jpg"  style="width: 200px; height: 200px; object-fit: cover; border-radius: 50%; padding: 12px;">
         </div>
         <div class="card__content">
           <div class="card__header">

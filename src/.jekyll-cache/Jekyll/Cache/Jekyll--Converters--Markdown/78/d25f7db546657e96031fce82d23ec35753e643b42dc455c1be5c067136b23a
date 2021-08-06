@@ -1,4 +1,4 @@
-I"¥[<script>(function() {
+I"í[<script>(function() {
   var SOURCES = window.TEXT_VARIABLES.sources;
   window.Lazyload.js(SOURCES.jquery, function() {
     function swiper(options) {
@@ -215,13 +215,13 @@
 <div class="swiper swiper-demo">
   <div class="swiper__wrapper">
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/lvms-overhead.png" alt="LVMS" />
+      <img src="/learn-to-race-challenge/assets/images/challenge/lvms-overhead.png" alt="LVMS" />
     </div>
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/anglesey-overhead.png" alt="LVMS" />
+      <img src="/learn-to-race-challenge/assets/images/challenge/anglesey-overhead.png" alt="LVMS" />
     </div>
     <div class="swiper__slide">
-      <img src="/assets/images/challenge/thruxton-overhead.png" alt="LVMS" />
+      <img src="/learn-to-race-challenge/assets/images/challenge/thruxton-overhead.png" alt="LVMS" />
     </div>
   </div>
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
