@@ -15,7 +15,6 @@ on:
 
 # A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
-  uses: lifepal/markdown-to-html@v1.1
   with:
     # (Path) The location of the folder containing your .md or .markdown files
     input_dir: ./src
