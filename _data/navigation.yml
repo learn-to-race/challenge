@@ -72,22 +72,22 @@ header:
       # @end locale config
     url: /papers.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Organizers
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /organizers.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       Sponsors
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /sponsors.html
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Organizers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /organizers.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Sponsors
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /sponsors.html
