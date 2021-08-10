@@ -74,7 +74,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Challenge Results
+      en      : &EN       Results
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
@@ -84,7 +84,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Accepted Papers
+      en      : &EN       Papers
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
