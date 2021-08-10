@@ -1,44 +1,42 @@
 ---
-layout: default
+layout: articles
+titles:
+  # @start locale config
+  en      : &EN       Home
+  en-GB   : *EN
+  en-US   : *EN
+  en-CA   : *EN
+  en-AU   : *EN
+  zh-Hans : &ZH_HANS  主页
+  zh      : *ZH_HANS
+  zh-CN   : *ZH_HANS
+  zh-SG   : *ZH_HANS
+  zh-Hant : &ZH_HANT  主頁
+  zh-TW   : *ZH_HANT
+  zh-HK   : *ZH_HANT
+  ko      : &KO       홈
+  ko-KR   : *KO
+  fr      : &FR       Accueil
+  fr-BE   : *FR
+  fr-CA   : *FR
+  fr-CH   : *FR
+  fr-FR   : *FR
+  fr-LU   : *FR
+  # @end locale config
+show_title: false
+articles:
+  data_source: paginator.posts
+  article_type: BlogPosting
+  show_cover: false
+  show_excerpt: true
+  show_readmore: true
+  show_info: true
 ---
+<div class="layout--home">
+  {%- include paginator.html -%}
+</div>
+<script>
+  {%- include scripts/home.js -%}
+</script>
 
-<!-- Page Header -->
-{% if page.background %}
-  <header class="masthead" style="background-image: url('{{ page.background | prepend: site.baseurl | replace: '//', '/' }}')">
-  {% else %}
-    <header class="masthead">
-    {% endif %}
-    <div class="overlay"></div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-md-10 mx-auto">
-          <div class="page-heading">
-            <h1 style="font-weight:700;margin:40px 0 20px;">{{ page.title }}</h1>
-            {% if page.description %}
-              <span class="subheading" style="font-size:21px;margin:20px 0 40px;">{{ page.description }}</span>
-            {% endif %}
-            {% if page.getting_started %}
-              <p class="center"><a href="{{ page.getting_started }}" target="_blank" class="btn btn-primary" style="text-decoration: none;">Get Started</a></p>
-            {% endif %}
-          </div>
-        </div>
-      </div>
-    </div>
-  </header>
-
-  <div class="container">
-    <div class="row">
-        <div class="col-xl-8 col-lg-12">
-          {{ content }}
-        </div>
-        <div class="col-auto">
-        </div>
-        <div class="col-xl-3 col-lg-12">
-          {% include last_news.html %}
-          <br>
-          <br>
-          {% include get_in_touch.html %}
-        </div>
-      </div>
-    </div>
-  </div>
+{{ content }}
