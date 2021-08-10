@@ -22,15 +22,15 @@ challenge-nav:
         url:    /challenge.html#metrics
 
 header:
-  - titles:
-      # @start locale config
-      en      : &EN       Overview
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /about.html
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Overview
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /about.html
 
 #  - titles:
 #      # @start locale config
@@ -74,7 +74,7 @@ header:
 
   - titles:
       # @start locale config
-      en      : &EN       Papers
+      en      : &EN       Accepted Papers
       en-GB   : *EN
       en-US   : *EN
       en-CA   : *EN
