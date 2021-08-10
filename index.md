@@ -7,10 +7,10 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-home
+title: Workshop on Safe Learning for Autonomous Driving
 article_header:
   type: overlay
   theme: dark   
-  title: Workshop on Safe Learning for Autonomous Driving
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/devbot.png
