@@ -74,6 +74,16 @@ header:
 
   - titles:
       # @start locale config
+      en      : &EN       Challenge Results
+      en-GB   : *EN
+      en-US   : *EN
+      en-CA   : *EN
+      en-AU   : *EN
+      # @end locale config
+    url: /results.html
+
+  - titles:
+      # @start locale config
       en      : &EN       Accepted Papers
       en-GB   : *EN
       en-US   : *EN
@@ -81,16 +91,6 @@ header:
       en-AU   : *EN
       # @end locale config
     url: /papers.html
-
-#  - titles:
-#      # @start locale config
-#      en      : &EN       Organizers
-#      en-GB   : *EN
-#      en-US   : *EN
-#      en-CA   : *EN
-#      en-AU   : *EN
-#      # @end locale config
-#    url: /organizers.html
 #
 #  - titles:
 #      # @start locale config
