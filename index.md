@@ -50,7 +50,7 @@ article_header:
 
 ## About
 
-Welcome to the Learn-to-Race Challenge on Safe Learning in Autonomous Driving.
+Welcome to the Learn-to-Race Challenge on <i>Safe Learning in Autonomous Driving</i>.
 
 Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving workshop provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Learn to Race competition or directly submit papers to the workshop via the call for papers.
 
