@@ -1658,7 +1658,13 @@ a > .item__header.disabled, a > .item__header:disabled, a.item__header.disabled,
 
 .article__header header { display: inline; font-size:40px;}
 
-.article__header h1 { display: inline; font-size: 7em; letter-spacing: -0.04em; line-height: 1.0;}
+.article__header h1 {
+    display: inline; 
+    font-size: 7em;
+    letter-spacing: -0.04em;
+    line-height: 1.0;
+    text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
+}
 
 .article__header h1 { word-wrap: break-word; }
 
