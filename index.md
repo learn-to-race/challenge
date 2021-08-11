@@ -18,6 +18,10 @@ article_header:
 ---
 
 <style>
+.article__header {
+    margin: 0 0 0 0;
+}
+
 .article__header h1 {
     display: inline;
     font-size: 3em;
@@ -27,7 +31,7 @@ article_header:
     word-wrap: break-word;
 }
 
-overlay__excerpt {
+.overlay__excerpt {
     margin: 0 0 0 0;
 }
 </style>
