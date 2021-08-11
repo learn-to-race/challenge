@@ -11,6 +11,11 @@ sidebar:
   nav: challenge-nav
 ---
 
+<style>
+.article__header h1 {
+    display: none;
+}
+</style>
 
 <script>
   {%- include scripts/lib/swiper.js -%}

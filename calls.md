@@ -7,8 +7,14 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-papers
-title: 
+title:
 ---
+
+<style>
+.article__header h1 {
+    display: none;
+}
+</style>
 
 # Call for Papers
 
