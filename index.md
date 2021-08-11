@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: Autonomous Driving Virtual Challenge
+excerpt: Virtual Challenge: April 1, 2022
 titles:
   en      : &EN       Home
   en-GB   : *EN

@@ -77,7 +77,7 @@ Papers from both the main track and the challenge tracks will be included in the
 
 - Abstract Submission: 19 February 2022
 - Paper submission: 26 February 2022
-- Notification of acceptance: Mar 26, 2022
+- Notification of paper acceptance: Mar 26, 2022
 - Challenge entry submission deadline (to be featured at the Workshop): April 1, 2022
 - Camera-ready paper submission: April 8, 2022
 - Workshop Date: April 25, 2022
