@@ -1656,9 +1656,9 @@ a > .item__header.disabled, a > .item__header:disabled, a.item__header.disabled,
 
 @media (max-width: 499px) { .article__header { margin-top: 1.5rem; } }
 
-.article__header header { display: inline; font-size:40px;} 
+.article__header header { display: inline; font-size:40px;}
 
-.article__header h1 { display: inline; }
+.article__header h1 { display: inline; font-size:40px; }
 
 .article__header h1 { word-wrap: break-word; }
 
