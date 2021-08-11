@@ -1,6 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
+description: Autonomous Driving Virtual Challenge 
 titles:
   en      : &EN       Home
   en-GB   : *EN
@@ -26,8 +27,6 @@ article_header:
     word-wrap: break-word;
 }
 </style>
-
-Autonomous Driving Virtual Challenge 
 
 <br>
 
