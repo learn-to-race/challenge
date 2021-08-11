@@ -17,7 +17,6 @@ article_header:
 ---
 
 <style>
-
 .article__header h1 {
     display: inline;
     font-size: 3em;
@@ -26,8 +25,9 @@ article_header:
     text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
     word-wrap: break-word;
 }
-
 </style>
+
+Workshop Proposal
 
 <br>
 
