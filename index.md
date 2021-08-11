@@ -60,21 +60,21 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 <div>
 <a href="https://jonfranc.com">        
-    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <img src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
     <p style="width:200px;" class="text-center team_name">Jonathan Francis</p>
     <p style="width:200px;" class="text-center team_description"></p>
     <p style="width:200px;" class="text-center team_from">CMU &amp; Bosch Research</p>
 </a>
 
 <a href="https://jonfranc.com">        
-    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <img src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
     <p style="width:200px;" class="text-center team_name">Jonathan Francis</p>
     <p style="width:200px;" class="text-center team_description"></p>
     <p style="width:200px;" class="text-center team_from">CMU &amp; Bosch Research</p>
 </a>
 
 <a href="https://jonfranc.com">        
-    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <img src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
     <p style="width:200px;" class="text-center team_name">Jonathan Francis</p>
     <p style="width:200px;" class="text-center team_description"></p>
     <p style="width:200px;" class="text-center team_from">CMU &amp; Bosch Research</p>
