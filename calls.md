@@ -58,6 +58,8 @@ Submissions are handled through [OpenReview](https://openreview.net/group?id=ICL
 - Siddha Ganju; NVIDIA
 - James Herman; CMU
 - Bingqing Chen; CMU
+- Hitesh Arora; Amazon
+- Sylvia L. Herbert; UCSD
 - Jean Oh; CMU
 - Eric Nyberg; CMU
 
