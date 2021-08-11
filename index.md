@@ -38,7 +38,7 @@ article_header:
 }
 
 .overlay__excerpt {
-    margin: 0 0 0 0;
+    margin: 20px 0 0 0;
 }
 </style>
 
