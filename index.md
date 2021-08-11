@@ -54,4 +54,10 @@ Welcome to the Learn-to-Race Challenge on Safe Learning in Autonomous Driving.
 
 Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving workshop provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Learn to Race competition or directly submit papers to the workshop via the call for papers.
 
-Vindico tristique vulpes singularis neo capio. Gemino at suscipit ut iaceo praemitto paulatim. Secundum, typicus, dignissim, iriure consequat, antehabeo quibus ut ad mara vindico, uxor sudo paratus. Luctus consequat saluto ne vero valde voco. Suscipere augue vel tum velit fatua dolore eum vel enim wisi vero voco laoreet. Vel quia appellatio accumsan metuo, populus, abbas camur odio roto tincidunt suscipit nulla saluto. Iusto pneum acsi sagaciter nostrud fatua delenit.
+## Challenge
+
+## Organisers
+
+## Program Committee
+
+## Sponsors
