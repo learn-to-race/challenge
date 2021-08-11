@@ -32,7 +32,7 @@ article_header:
     display: inline;
     font-size: 3em;
     letter-spacing: -0.04em;
-    line-height: 1.0;
+    line-height: 0.9;
     text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
     word-wrap: break-word;
 }
