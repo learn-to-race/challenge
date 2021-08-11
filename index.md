@@ -16,6 +16,19 @@ article_header:
     src: /assets/images/devbot.png
 ---
 
+<style>
+
+.article__header h1 {
+    display: inline;
+    font-size: 3em;
+    letter-spacing: -0.04em;
+    line-height: 1.0;
+    text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
+    word-wrap: break-word;
+}
+
+</style>
+
 <br>
 
 # Learn-to-Race Workshop
