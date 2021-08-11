@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: Virtual Challenge - April 1, 2022
+excerpt: Virtual Challenge&#58; September 15 - April 1, 2022
 titles:
   en      : &EN       Home
   en-GB   : *EN
