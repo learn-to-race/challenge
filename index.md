@@ -1,15 +1,13 @@
 ---
 layout: home
+title: Workshop on Safe Learning for Autonomous Driving
 titles:
   en      : &EN       Home
   en-GB   : *EN
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-key: page-home
-title: Workshop on Safe Learning for Autonomous Driving
-description: Open-source reinforcement learning environment for autonomous racing.
-getting_started: https://learn-to-race.readthedocs.io/en/latest/getting_started.html
+#key: page-home
 article_header:
   type: overlay
   theme: dark   
