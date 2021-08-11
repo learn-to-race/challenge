@@ -52,11 +52,34 @@ article_header:
 
 Welcome to the Learn-to-Race Challenge on <i>Safe Learning in Autonomous Driving</i>.
 
-Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving workshop provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Learn to Race competition or directly submit papers to the workshop via the call for papers.
+Existing research on autonomous driving primarily focuses on urban driving, which is insufficient for characterising the complex driving behaviour underlying high-speed racing. At the same time, existing racing simulation frameworks struggle in capturing realism, with respect to visual rendering, vehicular dynamics, and task objectives, inhibiting the transfer of learning agents to real-world contexts. The Safe Learning for Autonomous Driving challenge provides a venue for research and standardized experimentation on high-speed autonomous racing. Participants can choose to take part in the Challenge by competing for top leaderboard positions and/or by submitting articles to one of three conference paper tracks.
 
 ## Challenge
 
 ## Organisers
+
+<div>
+<a href="https://jonfranc.com">        
+    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <p class="text-center team_name">Jonathan Francis</p>
+    <p class="text-center team_description"></p>
+    <p class="text-center team_from">CMU &amp; Bosch Research</p>
+</a>
+
+<a href="https://jonfranc.com">        
+    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <p class="text-center team_name">Jonathan Francis</p>
+    <p class="text-center team_description"></p>
+    <p class="text-center team_from">CMU &amp; Bosch Research</p>
+</a>
+
+<a href="https://jonfranc.com">        
+    <img src="/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <p class="text-center team_name">Jonathan Francis</p>
+    <p class="text-center team_description"></p>
+    <p class="text-center team_from">CMU &amp; Bosch Research</p>
+</a>
+</div>
 
 ## Program Committee
 
