@@ -27,7 +27,7 @@ article_header:
 }
 </style>
 
-Workshop Proposal
+Autonomous Driving Virtual Challenge 
 
 <br>
 
