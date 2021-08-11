@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Workshop on Safe Learning for Autonomous Driving
+title: Safe Learning for Autonomous Driving
 titles:
   en      : &EN       Home
   en-GB   : *EN
