@@ -27,6 +27,11 @@ article_header:
     text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
     word-wrap: break-word;
 }
+
+.overlay__excerpt p {
+    margin-bottom: 0px;
+
+}
 </style>
 
 <br>
