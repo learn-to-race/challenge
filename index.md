@@ -18,12 +18,6 @@ article_header:
 ---
 
 <style>
-.article__header--overlay .overlay {
-    min-height: 36rem;
-    padding-top: 5rem;
-    padding-bottom: 5rem;
-}
-
 .article__header {
     margin: 0 0 0 0;
 }
@@ -32,7 +26,7 @@ article_header:
     display: inline;
     font-size: 3em;
     letter-spacing: -0.04em;
-    line-height: 0.9;
+    line-height: 1.0;
     text-shadow: -20px -8px 17px rgb(0 0 0 / 30%);
     word-wrap: break-word;
 }
