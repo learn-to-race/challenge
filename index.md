@@ -2,7 +2,6 @@
 layout: article
 title: Safe Learning for Autonomous Driving
 excerpt: Autonomous Driving Virtual Challenge
-#tagline: Autonomous Driving Virtual Challenge
 titles:
   en      : &EN       Home
   en-GB   : *EN
@@ -28,9 +27,8 @@ article_header:
     word-wrap: break-word;
 }
 
-.overlay__excerpt p {
-    margin-bottom: 0px;
-
+overlay__excerpt {
+    margin: 0 0 0 0;
 }
 </style>
 
