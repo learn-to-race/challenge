@@ -25,7 +25,7 @@ sidebar:
   });
 </script>
 
-## Overview
+# Challenge Overview
 
 Racing is one of the ultimate challenges which involves high-speed and high-risk decision making while operating vehicles near their physical limits. Learn-to-Race is a [Gym](https://gym.openai.com/) compliant framework provides agents with the ability to interact with a powerful racing simulation environment. The objective of this challenge is to explore the area of safe policy optimisation in greater detail on this difficult task.
 
