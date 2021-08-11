@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: article
 title: Workshop on Safe Learning for Autonomous Driving
 titles:
   en      : &EN       Home
@@ -7,7 +7,7 @@ titles:
   en-US   : *EN
   en-CA   : *EN
   en-AU   : *EN
-#key: page-home
+key: page-home
 article_header:
   type: overlay
   theme: dark   
