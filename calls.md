@@ -70,8 +70,8 @@ Papers from both the main track and the challenge tracks will be included in the
 ## Contact addresses
 
 - Re: general inquiries: sl4ad.workshop+info [AT] gmail.com
-- Re: submissions of papers: sl4ad.workshop+papers [AT] gmail.com
-- Re: challenge: sl4ad.workshop+challenge [AT] gmail.com
+- Re: paper submission inquiries: sl4ad.workshop+papers [AT] gmail.com
+- Re: challenge-related inquiries: sl4ad.workshop+challenge [AT] gmail.com
 
 ## Important Dates (all tracks)
 
