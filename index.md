@@ -8,6 +8,8 @@ titles:
   en-AU   : *EN
 key: page-home
 title: Workshop on Safe Learning for Autonomous Driving
+description: Open-source reinforcement learning environment for autonomous racing.
+getting_started: https://learn-to-race.readthedocs.io/en/latest/getting_started.html
 article_header:
   type: overlay
   theme: dark   
