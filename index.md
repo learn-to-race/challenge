@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: Virtual Challenge: April 1, 2022
+excerpt: Virtual Challenge - April 1, 2022
 titles:
   en      : &EN       Home
   en-GB   : *EN
@@ -18,6 +18,12 @@ article_header:
 ---
 
 <style>
+.article__header--overlay .overlay {
+    min-height: 36rem;
+    padding-top: 5rem;
+    padding-bottom: 5rem;
+}
+
 .article__header {
     margin: 0 0 0 0;
 }
