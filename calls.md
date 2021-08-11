@@ -7,6 +7,7 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-papers
+title: None
 ---
 
 # Call for Papers
