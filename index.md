@@ -13,6 +13,7 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
+  actions: None
   type: overlay
   theme: dark   
   background_image:
