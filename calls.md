@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: single
 titles:
   en      : &EN       Calls
   en-GB   : *EN
@@ -7,7 +7,7 @@ titles:
   en-CA   : *EN
   en-AU   : *EN
 key: page-papers
-title: 
+title:
 ---
 
 # Call for Papers
