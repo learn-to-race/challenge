@@ -44,6 +44,10 @@ article_header:
 .overlay__excerpt {
     margin: 20px 0 0 0;
 }
+
+.menu {
+    content:"September 15, 2021 - April 1, 2022";
+}
 </style>
 
 <br>
