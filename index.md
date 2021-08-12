@@ -77,8 +77,8 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px;">CMU + Bosch</p>
+<p style="margin:0 0 0 10px;"><b>Jonathan Francis</b></p>
+<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
