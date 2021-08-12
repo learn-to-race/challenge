@@ -91,8 +91,8 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
-<p style="margin:0 0 0 10px;">NVIDIA</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher, focusing on Computer Vision</p>
+<!--p style="margin:0 0 0 10px;">NVIDIA</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on Computer Vision and Vehicle Autonomy</p>
 </div>
 </div>
 
