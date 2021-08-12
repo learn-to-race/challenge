@@ -82,7 +82,6 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
     Jonathan Francis
 </a>
 </li>
-</ul>
 
 <li style="display:inline;">
 <a href="https://jonfranc.com">        
