@@ -125,7 +125,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon Robotics, focusing on multi-agent planning and control in constrained resource environments</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon Robotics, focusing on multi-agent planning and control in constrained-resource environments</p>
 </div>
 </div>
 
