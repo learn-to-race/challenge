@@ -136,7 +136,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sylvia Herbert</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director, Safe Autonomous Systems Lab; Uncertainty modeling in Control, Safety-aware Learning, Autonomy</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; Uncertainty modeling in Control, Safety-aware Learning, Autonomy</p>
 </div>
 </div>
 
