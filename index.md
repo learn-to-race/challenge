@@ -69,14 +69,14 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:block; width:700px;">
 
 <ul>
-<li>
+<li style="display:inline;">
 <a href="https://jonfranc.com">        
     <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
     Jonathan Francis
 </a>
 </li>
 
-<li>
+<li style="display:inline;">
 <a href="https://jonfranc.com">        
     <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
     Jonathan Francis
