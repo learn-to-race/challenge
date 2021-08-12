@@ -78,31 +78,34 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px;">CMU + Bosch</p><p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Multimodal Machine Learning</p>
+<p style="margin:0 0 0 10px;">CMU + Bosch</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Jonathan Francis">
 </a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px;">CMU + Bosch</p><p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Multimodal Machine Learning</p>
+<p style="margin:0 0 0 10px;">Siddha Ganju</p>
+<p style="margin:0 0 0 10px;">NVIDIA</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher, focusing on Computer Vision</p>
 </div>
 </div>
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="Jonathan Francis">
 </a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Jonathan Francis</p>
-<p style="margin:0 0 0 10px;">CMU + Bosch</p><p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Multimodal Machine Learning</p>
+<p style="margin:0 0 0 10px;">James Herman</p>
+<p style="margin:0 0 0 10px;">CMU</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher, focusing on large-scale optimisation in RL</p>
 </div>
 </div>
 
