@@ -118,6 +118,17 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 </div>
 
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora"></a>
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Hitesh Arora</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon Robotics, focusing on multi-agent planning and control in low resource environments</p>
+</div>
+</div>
+
 </div>
 
 ## Program Committee
