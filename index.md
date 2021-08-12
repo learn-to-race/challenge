@@ -69,27 +69,41 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline; width:900px;">
 
 <ul>
+
+
 <li style="display:inline; width:200px;">
+<div style="display:inline; width:101px;">
+<a href="https://jonfranc.com">        
+    <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+</a>
+</div>
 <div style="display:inline; width:200px;">
-<a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-    Jonathan Francis
-</a>
-</div></li>
-
-<li style="display:inline;">
-<a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-    Jonathan Francis
-</a>
+Jonathan Francis
+</div>
 </li>
 
-<li style="display:inline;">
+<li style="display:inline; width:200px;">
+<div style="display:inline; width:101px;">
 <a href="https://jonfranc.com">        
     <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-    Jonathan Francis
 </a>
+</div>
+<div style="display:inline; width:200px;">
+Jonathan Francis
+</div>
 </li>
+
+<li style="display:inline; width:200px;">
+<div style="display:inline; width:101px;">
+<a href="https://jonfranc.com">        
+    <img style="width:100px; height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+</a>
+</div>
+<div style="display:inline; width:200px;">
+Jonathan Francis
+</div>
+</li>
+
 </ul>
 
 </div>
