@@ -104,8 +104,8 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">James Herman</p>
-<p style="margin:0 0 0 10px;">CMU</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher, focusing on large-scale optimisation and simulation in RL</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Carnegie Mellon University, focusing on distributed training and simulation in RL</p>
 </div>
 </div>
 
