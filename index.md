@@ -114,7 +114,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Carnegie Mellon University, focusing on constraint-based optimisation, physical mechanisms, and Safe Learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, focusing on constraint-based optimisation, physical mechanisms, and Safe Learning, applied to autonomous driving</p>
 </div>
 </div>
 
