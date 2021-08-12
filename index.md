@@ -48,6 +48,10 @@ article_header:
 ul.menu li::after {
     content:"September 15, 2021 - April 1, 2022";
 }
+
+ul.menu a {
+    display: none;
+}
 </style>
 
 <br>
