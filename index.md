@@ -68,8 +68,6 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 <div style="display:inline; width:900px;">
 
-<ul>
-
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com">        
@@ -86,7 +84,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Jonathan Francis">
+    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
 </a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
@@ -99,7 +97,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="Jonathan Francis">
+    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
 </a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
@@ -109,29 +107,18 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 </div>
 
-</ul>
-
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen"></a>
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Bingqing Chen</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Carnegie Mellon University, focusing on constraint-based optimisation, physical mechanisms, and Safe Learning, applied to autonomous driving</p>
+</div>
 </div>
 
-<!--
-<div style="display:inline; width:200px;">
-<a href="https://jonfranc.com">        
-    <img style="width:100px: height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-    <p style="width:200px;" class="text-center team_name">Jonathan Francis</p>
-    <p style="width:200px;" class="text-center team_description"></p>
-    <p style="width:200px;" class="text-center team_from">CMU &amp; Bosch Research</p>
-</a>
 </div>
-
-<div style="display:inline; width:200px;">
-<a href="https://jonfranc.com">        
-    <img style="width:100px: height:100px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-    <p style="width:200px;" class="text-center team_name">Jonathan Francis</p>
-    <p style="width:200px;" class="text-center team_description"></p>
-    <p style="width:200px;" class="text-center team_from">CMU &amp; Bosch Research</p>
-</a>
-</div>
--->
 
 ## Program Committee
 
