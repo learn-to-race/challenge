@@ -69,6 +69,11 @@ ul.menu a {
     max-width: 100%;
     height: auto;
 }
+
+img {
+    vertical-align: middle;
+    border-style: none;
+}
 </style>
 
 <br>
