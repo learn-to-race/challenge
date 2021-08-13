@@ -182,7 +182,8 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Program Committee
 
-<div class="pc_list_item">Weiran Yao</div>
 <div class="pc_list_item">Shravya Bhat</div>
+<div class="pc_list_item">Weiran Yao</div>
+
 
 ## Sponsors
