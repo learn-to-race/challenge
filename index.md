@@ -120,6 +120,17 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
+<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya"></a>
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Gyan Tatiya</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Tufts, focusing on knowledge transfer across robot morphologies and embodied multimodal navigation</p>
+</div>
+</div>
+
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
 <a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora"></a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
