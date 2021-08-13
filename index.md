@@ -52,6 +52,11 @@ ul.menu li::after {
 ul.menu a {
     display: none;
 }
+
+pc_list_item {
+    display:inline-block;
+    width:200px;
+}
 </style>
 
 <br>
@@ -177,7 +182,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Program Committee
 
-<div style="display:inline-block; width:270px;">Weiran Yao</div>
-<div style="display:inline-block; width:270px;">Shravya Bhat</div>
+<div class="pc_list_item">Weiran Yao</div>
+<div class="pc_list_item">Shravya Bhat</div>
 
 ## Sponsors
