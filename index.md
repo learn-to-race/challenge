@@ -226,4 +226,18 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </ul>
 </div>
 
+<!-- column 4 -->
+<div style="width:201px; display:inline-block;">
+<ul>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+</ul>
+</div>
+
 ## Sponsors
