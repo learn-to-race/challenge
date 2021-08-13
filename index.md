@@ -131,12 +131,23 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert"></a>
+<a href="https://sylviaherbert.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert"></a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sylvia Herbert</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
+</div>
+</div>
+
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<a href="https://www.cs.cmu.edu/~ehn/"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg"></a>
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Eric Nyberg</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director of Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
 </div>
 </div>
 
