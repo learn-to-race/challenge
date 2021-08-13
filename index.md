@@ -268,22 +268,19 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div class="col-lg-12 col-xl-6">
             <div class="logos-organizers">
               <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/17/679aa6f948f5042506b0.svg">
+                <img class="img-fluid" src="/challenge/assets/images/sponsors/arrival_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/15/be5db40eca1c8968c573.png">
+                <img class="img-fluid" src="/challenge/assets/images/sponsors/cmu_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/1/42d3c990748762e09476.svg">
+                <img class="img-fluid" src="/challenge/assets/images/sponsors/aicrowd_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/16/1e96f81251e773b49964.png">
+                <img class="img-fluid" src="/challenge/assets/images/sponsors/aws_logo.png">
               </div>
               <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/6/54b68cf89d88fa06c003.png">
-              </div>
-              <div class="logo-organizer">
-                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/5/83008d847417bba6263a.png">
+                <img class="img-fluid" src="/challenge/assets/images/sponsors/bosch_logo.png">
               </div>
             </div>
           </div>
