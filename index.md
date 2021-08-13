@@ -53,7 +53,7 @@ ul.menu a {
     display: none;
 }
 
-.pc_list_item div {
+.pc_list_item {
     display:inline-block;
     width:200px;
 }
