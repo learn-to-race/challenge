@@ -147,7 +147,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director of Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
 </div>
 </div>
 
