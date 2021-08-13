@@ -64,6 +64,11 @@ ul.menu a {
     flex-direction: row;
     flex-wrap: nowrap;
 }
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
 </style>
 
 <br>
