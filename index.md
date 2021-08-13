@@ -182,14 +182,48 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Program Committee
 
-<div style="width:201px; display:inline;">
-<div class="pc_list_item">Shravya Bhat</div>
-<div class="pc_list_item">Weiran Yao</div>
+<!-- column 1 -->
+<div style="width:201px; display:inline-block;">
+<ul>
+<li>Shravya Bhat</li>
+<li>Weiran Yao</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+</ul>
 </div>
 
-<div style="width:201px; display:inline;">
-<div class="pc_list_item">Shravya Bhat</div>
-<div class="pc_list_item">Weiran Yao</div>
+<!-- column 2 -->
+<div style="width:201px; display:inline-block;">
+<ul>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+</ul>
+</div>
+
+<!-- column 3 -->
+<div style="width:201px; display:inline-block;">
+<ul>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
+</ul>
 </div>
 
 ## Sponsors
