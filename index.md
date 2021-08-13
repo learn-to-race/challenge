@@ -186,8 +186,8 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <div style="width:201px; display:inline-block;">
 <ul>
 <li>Shravya Bhat</li>
+<li>Ruoxin Huang</li>
 <li>Weiran Yao</li>
-<li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
