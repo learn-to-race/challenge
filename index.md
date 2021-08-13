@@ -57,6 +57,13 @@ ul.menu a {
     display:inline-block;
     width:200px;
 }
+
+.logos-organizers {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
 </style>
 
 <br>
@@ -248,6 +255,30 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Sponsors
 
+<div class="col-lg-12 col-xl-6">
+            <div class="logos-organizers">
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/17/679aa6f948f5042506b0.svg">
+              </div>
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/15/be5db40eca1c8968c573.png">
+              </div>
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/1/42d3c990748762e09476.svg">
+              </div>
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/16/1e96f81251e773b49964.png">
+              </div>
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/6/54b68cf89d88fa06c003.png">
+              </div>
+              <div class="logo-organizer">
+                <img class="img-fluid" src="https://images.aicrowd.com/raw_images/partners/image_file/5/83008d847417bba6263a.png">
+              </div>
+            </div>
+          </div>
+
+<!--
 <div style="width:900px; display:inline-block;">
 <img style="height:100px; width:186px;" src="/challenge/assets/images/sponsors/arrival_logo.png">
 <img style="height:100px; width:157px;" src="/challenge/assets/images/sponsors/cmu_logo.png">
@@ -256,3 +287,4 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 <img style="height:100px; width:272px;" src="/challenge/assets/images/sponsors/bosch_logo.png">
 <img style="height:100px; width:354px;" src="/challenge/assets/images/sponsors/honda_logo.png">
 </div>
+-->
