@@ -151,6 +151,17 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 </div>
 </div>
 
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<a href="https://www.cs.cmu.edu/~./jeanoh/"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh"></a>
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jean Oh</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Research Professor, Robotics Institute at CMU; multimodal perception, navigation, artificial intelligence</p>
+</div>
+</div>
+
 </div>
 
 ## Program Committee
