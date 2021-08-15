@@ -58,6 +58,11 @@ ul.menu a {
     width:200px;
 }
 
+.organiser_profile {
+    font-weight:normal;
+    color:#000000;
+}
+
 .logos-organizers {
     display: flex;
     align-items: center;
@@ -116,7 +121,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 
 <div style="display:inline; width:900px;">
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
@@ -129,7 +134,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
@@ -142,7 +147,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
@@ -155,7 +160,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
@@ -168,7 +173,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
@@ -181,7 +186,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;">
+<a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
@@ -194,7 +199,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="https://sylviaherbert.com">
+<a href="https://sylviaherbert.com" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
@@ -207,7 +212,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~ehn/">
+<a href="https://www.cs.cmu.edu/~ehn/" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
@@ -220,7 +225,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~./jeanoh/">
+<a href="https://www.cs.cmu.edu/~./jeanoh/" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh">
