@@ -94,10 +94,6 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Challenge
 
-Racing is one of the ultimate challenges which involves high-speed and high-risk decision making while operating vehicles near their physical limits. Learn-to-Race is a [Gym](https://gym.openai.com/) compliant framework provides agents with the ability to interact with a powerful racing simulation environment. The objective of this challenge is to explore the area of safe policy optimisation in greater detail on this difficult task.
-
-Participants will be evaluated on their racing performance on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. They will also have access to the [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to train their agents.
-
 <div class="swiper swiper-demo">
   <div class="swiper__wrapper">
     <div class="swiper__slide">
@@ -113,6 +109,8 @@ Participants will be evaluated on their racing performance on an unseen track, t
   <div class="swiper__button swiper__button--prev fas fa-chevron-left"></div>
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
+
+Multiple Learn-to-Race Challenges will available soon: please find more information on the <a href="https://learn-to-race.org/challenge/challenge.html">Rule</a> page.
 
 ## Organisers
 
