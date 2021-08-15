@@ -265,6 +265,9 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 ## Sponsors
 
+<img src="/challenge/assets/images/sponsors/sponsor_banner.png">
+
+<!--
 <div class="col-lg-12 col-xl-6">
             <div class="logos-organizers">
               <div class="logo-organizer">
@@ -284,7 +287,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
               </div>
             </div>
           </div>
-
+-->
 <!--
 <div style="width:900px; display:inline-block;">
 <img style="height:100px; width:186px;" src="/challenge/assets/images/sponsors/arrival_logo.png">
