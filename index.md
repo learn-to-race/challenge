@@ -114,13 +114,11 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 
 ## Organisers
 
+<a href="javascript:;">
 <div style="display:inline; width:900px;">
-
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-</a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
@@ -128,12 +126,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
+</a>
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
-</a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
@@ -141,12 +139,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision and vehicle autonomy</p>
 </div>
 </div>
+</a>
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
-</a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">James Herman</p>
@@ -154,10 +152,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">Researcher at Carnegie Mellon University, focusing on distributed training and simulation in reinforcement learning</p>
 </div>
 </div>
+</a>
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen"></a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
@@ -165,10 +165,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
 </div>
 </div>
+</a>
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya"></a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Gyan Tatiya</p>
@@ -176,10 +178,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Tufts, focusing on knowledge transfer across robot morphologies and embodied multimodal navigation</p>
 </div>
 </div>
+</a>
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora"></a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
@@ -187,6 +191,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon Robotics, focusing on multi-agent planning and control in constrained-resource environments</p>
 </div>
 </div>
+</a>
 
 <a href="https://sylviaherbert.com">
 <div style="display:inline-block; width:270px;">
@@ -201,9 +206,10 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
+<a href="https://www.cs.cmu.edu/~ehn/">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://www.cs.cmu.edu/~ehn/"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg"></a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
@@ -211,10 +217,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
 </div>
 </div>
+</a>
 
+<a href="https://www.cs.cmu.edu/~./jeanoh/">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://www.cs.cmu.edu/~./jeanoh/"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh"></a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
@@ -222,6 +230,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">Research Professor, Robotics Institute at CMU; multimodal perception, navigation, and artificial intelligence</p>
 </div>
 </div>
+</a>
 
 </div>
 
