@@ -116,11 +116,10 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 
 <div style="display:inline; width:900px;">
 
+<a href="javascript:;">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="javascript:;">        
-    <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
-</a>
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
@@ -128,6 +127,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, Research Scientist at Bosch; Domain knowledge-enhanced representation learning, applied to robotics and autonomous driving</p>
 </div>
 </div>
+</a>
 
 <a href="javascript:;">
 <div style="display:inline-block; width:270px;">
