@@ -76,6 +76,14 @@ img {
 }
 </style>
 
+<script>
+  {%- include scripts/lib/swiper.js -%}
+  var SOURCES = window.TEXT_VARIABLES.sources;
+  window.Lazyload.js(SOURCES.jquery, function() {
+    $('.swiper-demo').swiper();
+  });
+</script>
+
 <br>
 
 ## About
