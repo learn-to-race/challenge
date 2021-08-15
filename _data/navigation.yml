@@ -72,25 +72,25 @@ header:
       # @end locale config
     url: /challenge.html
 
-  - titles:
-      # @start locale config
-      en      : &EN       Leaderboard
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /results.html
-
-  - titles:
-      # @start locale config
-      en      : &EN       Papers
-      en-GB   : *EN
-      en-US   : *EN
-      en-CA   : *EN
-      en-AU   : *EN
-      # @end locale config
-    url: /papers.html
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Leaderboard
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /results.html
+#
+#  - titles:
+#      # @start locale config
+#      en      : &EN       Papers
+#      en-GB   : *EN
+#      en-US   : *EN
+#      en-CA   : *EN
+#      en-AU   : *EN
+#      # @end locale config
+#    url: /papers.html
 #
 #  - titles:
 #      # @start locale config
