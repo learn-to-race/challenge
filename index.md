@@ -110,7 +110,7 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
 
-Multiple Learn-to-Race Challenges will available soon: please find more information on the <a href="https://learn-to-race.org/challenge/challenge.html">Rule</a> page.
+Multiple Learn-to-Race Challenges will available soon: please find more information on the <a href="https://learn-to-race.org/challenge/challenge.html">Rules</a> page.
 
 ## Organisers
 
