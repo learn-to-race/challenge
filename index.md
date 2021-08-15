@@ -63,6 +63,11 @@ ul.menu a {
     color: black;
 }
 
+.organiser_profile a:link {
+    font-weight:normal;
+    color: black;
+}
+
 .logos-organizers {
     display: flex;
     align-items: center;
