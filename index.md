@@ -60,7 +60,7 @@ ul.menu a {
 
 .organiser_profile {
     font-weight:normal;
-    color:#000000;
+    color: black;
 }
 
 .logos-organizers {
