@@ -120,7 +120,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com">        
+<a href="javascript:;">        
     <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
 </a>
 </div>
@@ -133,7 +133,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com">        
+<a href="javascript:;">        
     <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
 </a>
 </div>
@@ -146,7 +146,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com">        
+<a href="javascript:;">        
     <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
 </a>
 </div>
@@ -159,7 +159,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen"></a>
+<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen"></a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
@@ -170,7 +170,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya"></a>
+<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya"></a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Gyan Tatiya</p>
@@ -181,7 +181,7 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<a href="https://jonfranc.com"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora"></a>
+<a href="javascript:;"><img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora"></a>
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
