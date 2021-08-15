@@ -293,6 +293,8 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 ---
 
+## Sponsors
+
 <img src="/challenge/assets/images/sponsors/sponsor_banner.png">
 
 <!--
