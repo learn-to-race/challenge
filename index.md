@@ -129,7 +129,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jonathan Francis</p>
@@ -142,7 +142,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
@@ -155,7 +155,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">James Herman</p>
@@ -168,7 +168,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Bingqing Chen</p>
@@ -181,7 +181,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Gyan Tatiya</p>
@@ -194,7 +194,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
@@ -207,7 +207,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="https://sylviaherbert.com" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sylvia Herbert</p>
@@ -220,7 +220,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="https://www.cs.cmu.edu/~ehn/" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
@@ -233,7 +233,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="https://www.cs.cmu.edu/~./jeanoh/" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="blank" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" target="_blank" src="/challenge/assets/images/organizers/jean_oh.png" alt="Jean Oh">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
