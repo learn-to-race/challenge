@@ -63,7 +63,7 @@ ul.menu a {
     color: black;
 }
 
-.organiser_profile a:link {
+.organiser_profile a:link a:visited a:hover a:active {
     font-weight:normal;
     color: #000000;
 }
