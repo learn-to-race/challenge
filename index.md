@@ -259,7 +259,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Shravya Bhat</li>
 <li>Ruoxin Huang</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
-<li>Weiran Yao</li>
+<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
