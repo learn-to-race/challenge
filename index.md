@@ -255,11 +255,11 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
+<li>Manoj Bhat</li>
 <li>Shravya Bhat</li>
 <li>Ruoxin Huang</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Weiran Yao</li>
-<li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
