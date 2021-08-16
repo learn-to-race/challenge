@@ -264,6 +264,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
+<li>Firstname Lastname</li>
 </ul>
 </div>
 
