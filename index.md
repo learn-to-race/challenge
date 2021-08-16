@@ -255,7 +255,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
-<li>Manoj Bhat</li>
+<li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
 <li>Shravya Bhat</li>
 <li>Ruoxin Huang</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
