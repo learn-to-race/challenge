@@ -257,9 +257,8 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <ul>
 <li>Shravya Bhat</li>
 <li>Ruoxin Huang</li>
+<li>Ingrid Navarro</li>
 <li>Weiran Yao</li>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
