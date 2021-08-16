@@ -65,7 +65,7 @@ ul.menu a {
 
 .organiser_profile a:link {
     font-weight:normal;
-    color: black;
+    color: #000000;
 }
 
 .logos-organizers {
