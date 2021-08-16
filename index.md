@@ -238,7 +238,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jean Oh</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Research Professor, Robotics Institute at CMU; multimodal perception, navigation, and artificial intelligence</p>
+<p style="margin:0 0 0 10px; font-size:10px; color:;#000000">Research Professor, Robotics Institute at CMU; multimodal perception, navigation, and artificial intelligence</p>
 </div>
 </div>
 </a>
