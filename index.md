@@ -144,7 +144,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
@@ -260,7 +260,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Ruoxin Huang</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<li>Firstname Lastname</li>
+<li>Sidharth Kathpal</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
