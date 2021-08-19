@@ -152,7 +152,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision and vehicle autonomy</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
 </div>
 </div>
 </a>
