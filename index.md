@@ -144,7 +144,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
@@ -152,7 +152,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Siddha Ganju</p>
 <!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision and vehicle autonomy</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
 </div>
 </div>
 </a>
@@ -257,14 +257,14 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <ul>
 <li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
 <li>Shravya Bhat</li>
+<li>Joe Fontaine</li>
+<li>Sahika Genc</li>
 <li>Ruoxin Huang</li>
+<li>Sidharth Kathpal</li>
+<li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
+<li>Cameron Peron</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
 </ul>
 </div>
 
