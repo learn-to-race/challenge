@@ -222,19 +222,6 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 </a>
 
-<a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Eric Nyberg</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
-</div>
-</div>
-</a>
-
 <a href="https://www.cs.cmu.edu/~./jeanoh/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
@@ -244,6 +231,19 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <p style="margin:0 0 0 10px;">Jean Oh</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Research Professor, Robotics Institute at CMU; multimodal perception, navigation, and artificial intelligence</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Eric Nyberg</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Professor of CS at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
 </div>
 </div>
 </a>
