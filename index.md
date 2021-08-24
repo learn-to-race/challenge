@@ -273,7 +273,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <ul>
 <li>Xinshuo Weng</li>
 <li>Daniel Omeiza</li>
-<li>Firstname Lastname</li>
+<li>Ankit Laddha</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
