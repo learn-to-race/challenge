@@ -271,8 +271,8 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 2 -->
 <div style="width:201px; display:inline-block;">
 <ul>
-<li>Firstname Lastname</li>
-<li>Firstname Lastname</li>
+<li>Xinshuo Weng</li>
+<li>Daniel Omeiza</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
