@@ -222,3 +222,10 @@ sim_kwargs:
 ### Metrics
 
 Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget dignissim eros ex sit amet dolor. Donec risus ex, luctus id orci ut, ultricies accumsan sem. Vivamus eget semper diam. Duis eget purus malesuada, efficitur orci rhoncus, ultricies enim. Maecenas eu feugiat augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent non lectus risus. Integer dictum consectetur urna. Sed porta dolor faucibus eros scelerisque, sit amet egestas magna fringilla. Nunc a cursus mi. Vivamus ut lectus nunc. Sed sit amet leo nibh. Ut dignissim eleifend suscipit.
+
+### Formal Competition Stages
+
+- 1. Initial screening for 20 days where competitors can run and play around with the provided starter code
+- 2. Round 1/training to search for best performing agents, lasting 60 days. Competitors will perform training on AWS
+- 3. Round 1/pre-eval, 60 days, overlapping with round1/training, where AICrowd takes submissions and runs the prevaluation on AWS (one complete lap around hold out test track)
+- 4. Round 2/Final eval, 10 days, where AICrowd takes the top 10 submissions from the leaderboard, and runs the final evaluation on AWS (3 complete laps around hold out test track)
