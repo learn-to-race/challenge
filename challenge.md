@@ -227,5 +227,5 @@ Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget
 
 * Initial screening for 20 days where competitors can run and play around with the provided starter code
 * Round 1/training to search for best performing agents, lasting 60 days. Competitors will perform training on AWS
-* Round 1/pre-eval, 60 days, overlapping with round1/training, where AICrowd takes submissions and runs the prevaluation on AWS (one complete lap around hold out test track)
-* Round 2/Final eval, 10 days, where AICrowd takes the top 10 submissions from the leaderboard, and runs the final evaluation on AWS (3 complete laps around hold out test track)
+* Round 1/pre-eval, 60 days, overlapping with round1/training, where AICrowd takes submissions and runs the prevaluation on AWS (one complete lap around hold-out test track)
+* Round 2/Final eval, 10 days, where AICrowd takes the top 10 submissions from the leaderboard, and runs the final evaluation on AWS (3 complete laps around hold-out test track)
