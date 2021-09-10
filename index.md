@@ -2,8 +2,6 @@
 layout: article
 title: Safe Learning for Autonomous Driving
 excerpt: + Autonomous Racing Virtual Challenge
-tagline: November 1, 2021 - April 1, 2022
-info: November 1, 2021 - April 1, 2022
 show_info: true
 titles:
   en      : &EN       Home
@@ -13,7 +11,6 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
-  actions: November 1, 2021 - April 1, 2022
   type: overlay
   theme: dark   
   background_image:
@@ -46,7 +43,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"September 15, 2021 - April 1, 2022";
+    content:"November 1, 2021 - April 1, 2022";
 }
 
 ul.menu a {
