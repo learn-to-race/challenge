@@ -13,7 +13,7 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
-  actions: September 15, 2021 - April 1, 2022
+  actions: November 1, 2021 - April 1, 2022
   type: overlay
   theme: dark   
   background_image:
