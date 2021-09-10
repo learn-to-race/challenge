@@ -259,9 +259,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Sahika Genc</li>
 <li>Ruoxin Huang</li>
 <li>Sidharth Kathpal</li>
+<li>Ankit Laddha</li>
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
+<li>Daniel Omeiza</li>
 <li>Cameron Peron</li>
+<li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 </ul>
 </div>
@@ -269,9 +272,9 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 2 -->
 <div style="width:201px; display:inline-block;">
 <ul>
-<li>Xinshuo Weng</li>
 <li>Daniel Omeiza</li>
-<li>Ankit Laddha</li>
+<li>Cameron Peron</li>
+<li>Xinshuo Weng</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
 <li>Firstname Lastname</li>
