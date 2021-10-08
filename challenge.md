@@ -52,9 +52,9 @@ Participants will be evaluated on their racing performance on an unseen track, t
 
 Please complete the following steps, in order to get started:
 
-> Please complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfVOTTEuWjST6den18JRFN4BehLRYMjRJk-elYMaiInUoHUqg/viewform), in order to obtain the simulator. 
-> Clone the official repository: https://github.com/learn-to-race/l2r.git
-> Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluating trained models.  
+* Please complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfVOTTEuWjST6den18JRFN4BehLRYMjRJk-elYMaiInUoHUqg/viewform), in order to obtain the simulator. 
+* Clone the official repository: https://github.com/learn-to-race/l2r.git
+* Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluating trained models.  
 
 ## Rules
 
