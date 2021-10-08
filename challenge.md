@@ -48,6 +48,10 @@ Participants will be evaluated on their racing performance on an unseen track, t
 </div>
 
 
+## Getting Started
+
+Please follow the official [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), in order to get started.
+
 ## Rules
 
 The task is to Learn-to-Race, so complete or over-reliance on classical planning methods is not allowed. Additionally, participants will be:
