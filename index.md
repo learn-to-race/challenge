@@ -158,12 +158,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">James Herman</p>
+<p style="margin:0 0 0 10px;">Bingqing Chen</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Carnegie Mellon University, focusing on distributed training and simulation in reinforcement learning</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
 </div>
 </div>
 </a>
@@ -171,12 +171,12 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <a href="javascript:;" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Bingqing Chen</p>
+<p style="margin:0 0 0 10px;">James Herman</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, focusing on constraint-based optimisation, physical mechanisms, and safe learning, applied to autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Carnegie Mellon University, focusing on distributed training and simulation in reinforcement learning</p>
 </div>
 </div>
 </a>
