@@ -301,6 +301,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 4 -->
 <div style="width:201px; display:inline-block;">
 <ul>
+<!--li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
@@ -309,8 +310,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
+<li>&nbsp;</li-->
 </ul>
 </div>
 
