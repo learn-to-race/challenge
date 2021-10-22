@@ -267,7 +267,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 
 <!-- column 2 -->
-<div style="width:201px; display:inline-block;">
+<div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
 <li>Daniel Omeiza</li>
 <li>Cameron Peron</li>
@@ -283,7 +283,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 
 <!-- column 3 -->
-<div style="width:201px; display:inline-block;">
+<div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
 <!--li>&nbsp;</li>
 <li>&nbsp;</li>
@@ -299,7 +299,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </div>
 
 <!-- column 4 -->
-<div style="width:201px; display:inline-block;">
+<div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
 <!--li>&nbsp;</li>
 <li>&nbsp;</li>
