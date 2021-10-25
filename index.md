@@ -103,7 +103,7 @@ img {
 
 Welcome to the Learn-to-Race Challenge on <i>Safe Learning in Autonomous Driving</i>.
 
-As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.
+As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.<br>
 
 We propose the Safe Learning for Autonomous Driving workshop, as a venue for research towards achieving the safety benefits of autonomous vehicles, supplemented by standardized evaluation in a high-fidelity racing environment. Participants can choose to take part in the Challenge by competing for top leaderboard positions and/or by submitting articles to one of three conference paper tracks.
 
