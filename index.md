@@ -44,7 +44,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"November 1, 2021 - April 1, 2022";
+    content:"November 18, 2021 - April 1, 2022";
 }
 
 ul.menu a {
