@@ -27,9 +27,9 @@ sidebar:
 
 # Challenge Overview
 
-Racing is one of the ultimate challenges which involves high-speed and high-risk decision making while operating vehicles near their physical limits. Learn-to-Race is a [Gym](https://gym.openai.com/) compliant framework provides agents with the ability to interact with a powerful racing simulation environment. The objective of this challenge is to explore the area of safe policy optimisation in greater detail on this difficult task.
+Racing is the ultimate proving ground for automotive technology, which involves fast decision making in a complex, fast-changing environment. Learn-to-Race is a [Gym](https://gym.openai.com/)-compliant framework that enables autnomous agents to interact with a high-fidelity racing simulator. The objective of this competition is to push the boundary of autonomous technology through this challenging task, with focus on achieving the safety benefits of autonomous driving.
 
-Participants will be evaluated on their racing performance on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. They will also have access to the [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to train their agents.
+Participants will be evaluated on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. Participants will also have access to the [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to develop their agents.
 
 <div class="swiper swiper-demo">
   <div class="swiper__wrapper">
@@ -56,14 +56,33 @@ Please complete the following steps, in order to get started:
 * Clone the official code [repository](https://github.com/learn-to-race/l2r.git), to obtain the Learn-to-Race training framework and baselines. 
 * Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluation.  
 
-## Rules
+## Evaluation
 
-The task is to Learn-to-Race, so complete or over-reliance on classical planning methods is not allowed. Additionally, participants will be:
+### Rules
+
+The task is to Learn-to-Race, so over-reliance on classical planning methods is not encouraged. Additionally, participants will be:
 
 * limited to **1** submission every 24 hours
-* restricted from accessing model weights or custom logs during evalation
+* restricted from accessing model weights or custom logs during evaluation
 * required to submit source code, for top performers
 
+
+### Competition Stages
+
+The competition consists of 2 stages. 
+* In Stage 1, participants will submit model checkpoints to AICrowd for evaluation on [Thruxton Circuit](https://thruxtonracing.co.uk/). The submissions will first be ranked on success rate, and then submissions with the same success rate will be ranked on average speed. Aside from Thruxton Circuit, additional race tracks are available in the Learn-to-Race environment for development. 
+* The top 10 teams on the leader board will enter the second stage, where their agents will be evaluated on an unseen track. The top-performing teams will submit their models (with initialization) to AICrowd for training on the unseen track for a fixed period of one hour. During the one-hour `practice' period, participants are free to perform any model updates or exploration strategies of their choice. 
+
+The number of safety infractions will be accumulated under the consideration that an autonomous agent should remain safe throughout its interaction with the environment. After the `practice' period, the agent will be evaluated on the unseen track. The participating teams will first be ranked on success rate, and then submissions with the same success rate will be ranked on a weighted sum of the total number of safety infractions and the average speed. To prevent the participants from achieving high success rate by driving very slowly, we will set maximum episode length based on average speed of 30km/h during evaluation.
+
+
+
+### Metrics
+* *Success Rate:* Each race track will be partitioned into a fixed number of segments and the success rate is calculated as the number of successfully completed segments over the total number of segments. If the agent fails at a certain segment, it will respawn stationarily at the beginning of the next segment. If the agent successfully completes a segment, it will continue on to the next segment carrying over the current speed.
+* *Average Speed:* Average speed is defined as the total distance traveled over time, which is used as a proxy for performance.
+* *Number of Safety Infractions:* The number of safety infractions is cumulated during the 1-hour `practice' period in the Stage 2 of the competition. The agent is considered to have incurred a safety infraction if 2 wheels of the vehicle leave the drivable area, the vehicle collides with an object, or does not make sufficient progress (e.g. get stuck). In Learn-to-Race, the episode terminates upon a safety infraction.  
+
+## Environment
 ### Action Space
 
 | Action | Type  |  Range  |
@@ -100,16 +119,6 @@ observation =
 26-29: wheel torque (per wheel)
 ```
 
-## Evaluation
-
-### Pre-Evaluation Stage
-
-All submissions will have access to the unseen evaluation racetrack for 1-hour with unfrozen model weights. Participants are free to perform any model updates or exploration strategies that they choose. Submissions that fail to begin the evaluation stage within 1-hour of starting pre-evaluation will not be accepted.
-
-### Evaluation Stage
-
-The evaluation stage consists of *3* environment episodes beginning at the finish line of the evaluation racetrack. The official Learn-to-Race metrics will be recorded and displayed on the leaderboard following submission.
-
 ### Submission Instructions
 
 #### Environment
@@ -119,6 +128,7 @@ Your submission will be run in an Ubuntu 18.04, [nvidia/cudagl](https://hub.dock
 * For conda environments, include `environment.yml` in the top directory of your submission
 * For pip3 installation, include `requirements.txt` in the top directory of your submission, run after the above step
 * For Python3 virtual environments, include a directory named `venv` in the top directory of your submission, and our script will activate `venv/bin/activate`
+
 
 #### File Structure
 
@@ -225,15 +235,3 @@ sim_kwargs:
     DriverAPIClass: 'VApiUdp'
     DriverAPI_UDP_SendAddress: '0.0.0.0'
 ```
-
-
-### Metrics
-
-Vestibulum bibendum, enim vitae scelerisque aliquam, nisi augue cursus leo, eget dignissim eros ex sit amet dolor. Donec risus ex, luctus id orci ut, ultricies accumsan sem. Vivamus eget semper diam. Duis eget purus malesuada, efficitur orci rhoncus, ultricies enim. Maecenas eu feugiat augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Praesent non lectus risus. Integer dictum consectetur urna. Sed porta dolor faucibus eros scelerisque, sit amet egestas magna fringilla. Nunc a cursus mi. Vivamus ut lectus nunc. Sed sit amet leo nibh. Ut dignissim eleifend suscipit.
-
-### Formal Competition Stages
-
-* Initial screening for 20 days where competitors can run and play around with the provided starter code
-* Round 1/training to search for best performing agents, lasting 60 days. Competitors will perform training on AWS
-* Round 1/pre-eval, 60 days, overlapping with round1/training, where AICrowd takes submissions and runs the prevaluation on AWS (one complete lap around hold-out test track)
-* Round 2/Final eval, 10 days, where AICrowd takes the top 10 submissions from the leaderboard, and runs the final evaluation on AWS (3 complete laps around hold-out test track)
