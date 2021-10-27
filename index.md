@@ -154,8 +154,8 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 ### Challenge
 
 > <b>Open:</b> 18 November 2021<br>
-> <b>Close:</b> 31 January 2022 at 23:59 AoE: <b><span id="countdown"></span></b><br>
-> <b>Notification:</b>
+> <b>Close:</b> 31 January 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
+> <b>Notification:</b> 15 February 2022
 
 ## Challenge
 
