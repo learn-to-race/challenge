@@ -129,7 +129,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 
 ## Organisers
 
-<div style="display:inline; width:900px;">
+<div style="display:inline; width:900px; vertical-align: top;">
 
 <a href="javascript:;" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
