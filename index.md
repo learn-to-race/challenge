@@ -97,6 +97,40 @@ img {
   });
 </script>
 
+<script>
+
+  var countDownDate = new Date("Jan 31, 2022 23:59:59 UTC").getTime();  
+  countDownDate = countDownDate + 1000 * 3600 * 12
+
+
+  var x = setInterval(function() {
+
+
+    var now = new Date().getTime();
+
+
+    var distance = countDownDate - now;
+
+
+    var days = Math.floor(distance / (1000 * 60 * 60 * 24));
+    var hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+    var minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+    var seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+
+    var countdown = days + "d " + hours + "h " + minutes + "m " + seconds + "s ";
+
+
+    if (distance < 0) {
+      clearInterval(x);
+      countdown = "(expired)";  
+    }
+
+    document.getElementById("countdown").innerHTML = countdown
+
+  }, 1000);
+</script>
+
 <br>
 
 ## About
@@ -111,11 +145,17 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ### Paper Submission
 
-> Submissions due: 28 February 2022
-> Reviewing starts: 1 March 2022
-> Reviewing ends: 20 March 2022
-> Notification: 24 March 2022
+> Submissions due: 28 February 2022<br>
+> Reviewing starts: 1 March 2022<br>
+> Reviewing ends: 20 March 2022<br>
+> Notification: 24 March 2022<br>
 > Camera Ready + Video upload: 15 April 2022
+
+### Challenge
+
+> Open: 18 November 2021<br>
+> Close: 31 January 2022 at 23:59 AoE: <b><span id="countdown"></span></b><br>
+> Notification:
 
 ## Challenge
 
