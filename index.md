@@ -178,6 +178,33 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
+<a href="javascript:;" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Jaime Fisac</p>
+<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Princeton University</p>
+</div>
+</div>
+</a>
+
+<a href="javascript:;" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Rowan McAllister</p>
+<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Scientist<br>Toyota Research Institute</p>
+</div>
+</div>
+</a>
+
+
 </div>
 
 ## Challenge
