@@ -107,6 +107,16 @@ As autonomous technology approaches maturity, it is of paramount importance for 
 
 We propose the Safe Learning for Autonomous Driving workshop, as a venue for research towards achieving the safety benefits of autonomous vehicles, supplemented by standardized evaluation in a high-fidelity racing environment. Participants can choose to take part in the Challenge by competing for top leaderboard positions and/or by submitting articles to one of three conference paper tracks.
 
+## Dates
+
+### Paper Submission
+
+> Submissions due: 28 February 2022
+> Reviewing starts: 1 March 2022
+> Reviewing ends: 20 March 2022
+> Notification: 24 March 2022
+> Camera Ready + Video upload: 15 April 2022
+
 ## Challenge
 
 <div class="swiper swiper-demo">
@@ -236,8 +246,8 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </a>
 
 <a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
+<div style="display:inline-block; width:270px; vertical-align: top;">
+<div style="display:inline-block; width:101px; vertical-align: top;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
