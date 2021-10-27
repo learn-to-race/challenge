@@ -11,7 +11,7 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
-  actions: November 18, 2021 - April 1, 2022
+  actions: 18 November, 2021 - 31 January, 2022
   type: overlay
   theme: dark   
   background_image:
@@ -44,7 +44,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"November 18, 2021 - April 1, 2022";
+    content:"18 November, 2021 - 31 January, 2022";
 }
 
 ul.menu a {
