@@ -161,6 +161,25 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 > <b>Event:</b> 29 April 2022
 
+## Speakers
+
+<div style="display:inline; width:900px; vertical-align: top;">
+
+<a href="javascript:;" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Max Kumskoy</p>
+<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Product Manager of Autonomous Driving<br>ARRIVAL</p>
+</div>
+</div>
+</a>
+
+</div>
+
 ## Challenge
 
 <div class="swiper swiper-demo">
