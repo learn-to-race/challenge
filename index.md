@@ -145,17 +145,17 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ### Paper Submission
 
-> Submissions due: 28 February 2022<br>
-> Reviewing starts: 1 March 2022<br>
-> Reviewing ends: 20 March 2022<br>
-> Notification: 24 March 2022<br>
-> Camera Ready + Video upload: 15 April 2022
+> <b>Submissions due:</b> 28 February 2022<br>
+> <b>Reviewing starts:</b> 1 March 2022<br>
+> <b>Reviewing ends:</b> 20 March 2022<br>
+> <b>Notification:</b> 24 March 2022<br>
+> <b>Camera Ready</b> + Video upload: 15 April 2022
 
 ### Challenge
 
-> Open: 18 November 2021<br>
-> Close: 31 January 2022 at 23:59 AoE: <b><span id="countdown"></span></b><br>
-> Notification:
+> <b>Open:</b> 18 November 2021<br>
+> <b>Close:</b> 31 January 2022 at 23:59 AoE: <b><span id="countdown"></span></b><br>
+> <b>Notification:</b>
 
 ## Challenge
 
