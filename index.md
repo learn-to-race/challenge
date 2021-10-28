@@ -172,7 +172,6 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Product Manager of Autonomous Driving<br>ARRIVAL</p>
 </div>
 </div>
@@ -185,7 +184,6 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Jaime Fisac</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Princeton University</p>
 </div>
 </div>
@@ -198,7 +196,6 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Rowan McAllister</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Machine Learning Scientist<br>Toyota Research Institute</p>
 </div>
 </div>
@@ -211,7 +208,6 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sahika Genc</p>
-<!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Principal Scientist<br>Amazon AWS</p>
 </div>
 </div>
