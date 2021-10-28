@@ -128,7 +128,7 @@ You submission will be a single file named `submission.zip` which contains:
 └── ...
 ```
 
-#### eval.py
+##### eval.py
 
 This is the primary file that you will modify and include in your submission. The [template](https://github.com/hermgerm29/learn-to-race/blob/main/l2r/eval/eval.py) you will use is located in `l2r/eval/eval.py` in the Learn-to-Race repository. You are free to modify any methods that are marked **"Modify this method"**, and you will, at minimum, need to modify the following methods:
 
@@ -137,7 +137,7 @@ This is the primary file that you will modify and include in your submission. Th
 
 A variety of mechanisms are implemented to strictly check that **"Do not modify"** methods are not modified, and submissions that do modify these methods will result in a thrown exception and no provided score.
 
-#### conf.yml
+##### conf.yml
 
 The other required file is `conf.yml` which defines a number of configurations for the racing environment. A template of this file is shown below. We also impose a few modest restrictions including:
 

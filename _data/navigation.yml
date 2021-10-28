@@ -12,6 +12,10 @@ challenge-nav:
         url:    /challenge.html#action-space
       - title:  Observation Space
         url:    /challenge.html#observation-space
+      - title:  Runtime Environment
+        url:    /challenge.html#runtime-environment
+      - title:  File Structure
+        url:    /challenge.html#file-structure
   - title:      Evaluation
     children:
       - title:  Pre-Evaluation Stage
