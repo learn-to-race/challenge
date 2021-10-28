@@ -18,12 +18,10 @@ challenge-nav:
         url:    /challenge.html#file-structure
   - title:      Evaluation
     children:
-      - title:  Pre-Evaluation Stage
-        url:    /challenge.html#pre-evaluation-stage
-      - title:  Evaluation Stage
-        url:    /challenge.html#evaluation-stage
-      - title:  Submission Instructions
-        url:    /challenge.html#submission-instructions
+      - title:  Rules
+        url:    /challenge.html#rules
+      - title:  Competition Stages
+        url:    /challenge.html#competition-stages
       - title:  Metrics
         url:    /challenge.html#metrics
 
