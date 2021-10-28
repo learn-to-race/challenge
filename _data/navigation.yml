@@ -3,8 +3,10 @@ challenge-nav:
   - title:      Overview
     children:
       - title:  Overview
-        url:    /challenge.html#overview
-  - title:      Rules
+        url:    /challenge.html#challenge-overview
+      - title: Getting Started
+        url:    /challenge.html#getting-started
+  - title:      Environment
     children:
       - title:  Action Space
         url:    /challenge.html#action-space
