@@ -349,8 +349,8 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 </a>
 
 <a href="https://www.cs.cmu.edu/~ehn/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px; vertical-align: top;">
-<div style="display:inline-block; width:101px; vertical-align: top;">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/eric_nyberg.png" alt="Eric Nyberg">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
