@@ -66,7 +66,9 @@ Submissions are handled through [OpenReview](https://openreview.net/group?id=ICL
 
 ## Publication
 
-Papers from both the main track and the challenge tracks will be included in the workshop proceedings of ICLR 2022.
+- Submitted papers will undergo double-blind review.
+- Neither papers from the main track nor the challenge tracks will have archival proceedings.
+- De-anonymised, accepted papers will be posted on the website.
 
 ## Contact addresses
 
