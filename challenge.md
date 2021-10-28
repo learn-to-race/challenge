@@ -210,7 +210,7 @@ sim_kwargs:
 
 ## Evaluation
 
-### Rules
+#### Rules
 
 The task is to Learn-to-Race, so over-reliance on classical planning methods is not encouraged. Additionally, participants will be:
 
@@ -219,15 +219,14 @@ The task is to Learn-to-Race, so over-reliance on classical planning methods is 
 * required to submit source code, for top performers
 
 
-### Competition Stages
+#### Competition Stages
 
 The competition consists of 2 stages.
 * In Stage 1, participants will submit model checkpoints to AICrowd for evaluation on [Thruxton Circuit](https://thruxtonracing.co.uk/). The submissions will first be ranked on success rate, and then submissions with the same success rate will be ranked on average speed. Aside from Thruxton Circuit, additional race tracks are available in the Learn-to-Race environment for development.
 * The top 10 teams on the leader board will enter Stage 2, where their agents will be evaluated on an unseen track. The top-performing teams will submit their models (with initialization) to AICrowd for training on the unseen track for a fixed period of one hour. During the one-hour 'practice' period, participants are free to perform any model updates or exploration strategies of their choice. The number of safety infractions will be accumulated under the consideration that an autonomous agent should remain safe throughout its interaction with the environment. After the 'practice' period, the agent will be evaluated on the unseen track. The participating teams will first be ranked on success rate, and then submissions with the same success rate will be ranked on a weighted sum of the total number of safety infractions and the average speed. To prevent the participants from achieving high success rate by driving very slowly, we will set maximum episode length based on average speed of 30km/h during evaluation.
 
 
-
-### Metrics
+#### Metrics
 * *Success Rate:* Each race track will be partitioned into a fixed number of segments and the success rate is calculated as the number of successfully completed segments over the total number of segments. If the agent fails at a certain segment, it will respawn stationarily at the beginning of the next segment. If the agent successfully completes a segment, it will continue on to the next segment carrying over the current speed.
 * *Average Speed:* Average speed is defined as the total distance traveled over time, which is used as a proxy for performance.
 * *Number of Safety Infractions:* The number of safety infractions is accumulated during the 1-hour 'practice' period in Stage 2 of the competition. The agent is considered to have incurred a safety infraction if 2 wheels of the vehicle leave the drivable area, the vehicle collides with an object, or does not make sufficient progress (e.g. get stuck). In Learn-to-Race, the episode terminates upon a safety infraction.  
