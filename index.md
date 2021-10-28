@@ -363,6 +363,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
+<li>Matthew Bauch</li>
 <li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
 <li>Shravya Bhat</li>
 <li>Joe Fontaine</li>
@@ -372,19 +373,18 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Sidharth Kathpal</li>
 <li>Ankit Laddha</li>
 <li>Sharada Mohanty</li>
-<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Daniel Omeiza</li>
 <li>Cameron Peron</li>
 <li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
