@@ -54,10 +54,10 @@ Submissions are handled through [OpenReview](https://openreview.net/group?id=ICL
 
 ## Organising Committee
 
-- Jonathan Francis; CMU, Bosch Research
+- Jonathan Francis; CMU + Bosch Research
 - Siddha Ganju; NVIDIA
-- James Herman; CMU
 - Bingqing Chen; CMU
+- James Herman; CMU
 - Gyan Tatiya; Tufts
 - Hitesh Arora; Amazon
 - Sylvia L. Herbert; UCSD
