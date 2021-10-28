@@ -57,14 +57,14 @@ Please complete the following steps, in order to get started:
 * Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluation.  
 
 ## Environment
-### Action Space
+#### Action Space
 
 | Action | Type  |  Range  |
 |:----------:|:-------------:|:------:|
 | Steering | Continuous | *[-1.0, 1.0]* |
 | Acceleration | Continuous | *[-1.0, 1.0]* |
 
-### Observation Space
+#### Observation Space
 
 We do not restrict the usage of segmentation cameras nor the placement of cameras, including off-vehicle, during training. During evaluation, agents will only have access to RGB images from cameras placed on the front, right, and left of the vehicle as well as pose information.
 
@@ -93,7 +93,7 @@ observation =
 26-29: wheel torque (per wheel)
 ```
 
-#### Environment
+#### Runtime Environment
 
 Your submission will be run in an Ubuntu 18.04, [nvidia/cudagl](https://hub.docker.com/r/nvidia/cudagl) Docker image with Cuda 11.0.3 drivers. By default, a Python 3.6.9 environment is used, and we expect submissions to use Python3 versions >= 3.6.9. The evaluation structure allows for a variety of Python3 environments:
 
