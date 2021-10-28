@@ -212,11 +212,10 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Sahika Genc</p>
 <!--p style="margin:0 0 0 10px;">CMU + Bosch</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Pricipal Scientist<br>Amazon AWS</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Principal Scientist<br>Amazon AWS</p>
 </div>
 </div>
 </a>
-
 
 </div>
 
