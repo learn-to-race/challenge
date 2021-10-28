@@ -46,8 +46,8 @@ Through this workshop, we are launching an AI challenge with two subtasks:
 ## Submission Guidelines
 
 We are accepting papers for three tracks
-- Full papers (9 pages, excluding references) -- to be included in the ICLR 2022 Workshop Proceedings
-- Challenge submissions (4 pages, excluding references) -- to be included in the ICLR 2022 Workshop Proceedings
+- Full papers (9 pages, excluding references)
+- Challenge submissions (4 pages, excluding references)
 - Short papers (4 pages, excluding references)
 
 Submissions are handled through [OpenReview](https://openreview.net/group?id=ICLR.cc/2022/). We will follow the submission guidelines specified by ICLR 2022 which can be found [here](https://iclr.cc/Conferences/2022/CallForPapers)
