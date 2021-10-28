@@ -163,7 +163,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ## Speakers
 
-<div style="display:inline; width:900px;">
+<div style="display:inline; padding:20px 0 0 0; width:900px;">
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px;">
