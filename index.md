@@ -368,27 +368,27 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Shravya Bhat</li>
 <li>Joe Fontaine</li>
 <li>Sahika Genc</li>
+<li>Shivam Goel</li>
 <li>Ruoxin Huang</li>
 <li>Soonmin Hwang</li>
 <li>Sidharth Kathpal</li>
 <li>Ankit Laddha</li>
-<li>Sharada Mohanty</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Daniel Omeiza</li>
 <li>Cameron Peron</li>
 <li>Joao Semedo</li>
+<li>Yash Shukla</li>
+<li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
+<!--li>Xinjie Abby Yao</li-->
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
-<!--li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li-->
 </ul>
 </div>
 
