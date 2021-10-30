@@ -26,15 +26,15 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to) the following:
 
-- Leveraging Offline Demonstrations in Online Learning
-- Constrained Reinforcement Learning
-- Physics-guided Reinforcement Learning
-- Fast Online Optimisation and Decision-making
-- Transfer Learning and Domain Adaptation
-- Architectures for Distributed Optimisation
-- Representation Learning and Multimodal Alignment
-- Virtual Sensing and Sensor Translation
-- Dependability Analysis for Learning-based Systems
+- Safe learning;  Constrained reinforcement learning;
+- Safety verification; Certifying learning-based control under dynamics uncertainty; Dependability analysis for learning-based systems;
+- Learning vehicle dynamics at high-speeds; Learning uncertain and potentially unstable dynamics to safely improve performance;
+- Learning to drive from expert demonstrations;
+- Representation learning and scene understanding; Robustness to novel and out-of-distribution scenarios;
+- Online optimisation and fast decision-making;
+- Transfer learning from simulation to real-world; Meta learning; Domain adaptation;
+- Autonomous vehicles and smart mobility;
+- Interpretability, explainability for autonomous systems
 
 ## Workshop Challenge Topics
 
