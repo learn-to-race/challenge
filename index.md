@@ -382,6 +382,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Daniel Omeiza</li>
+<li>Karthik Paga</li>
 <li>Cameron Peron</li>
 <li>Joao Semedo</li>
 <li>Yash Shukla</li>
