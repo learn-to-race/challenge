@@ -312,7 +312,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon, focusing on multimodal perception and reinforcement learning applied to autonomous driving.</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon, focusing on multimodal perception and reinforcement learning applied to autonomous driving</p>
 </div>
 </div>
 </a>
