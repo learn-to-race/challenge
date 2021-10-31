@@ -192,6 +192,18 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 <a href="javascript:;" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Johannes Betz</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>University of Pennsylvania</p>
+</div>
+</div>
+</a>
+
+<a href="javascript:;" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
