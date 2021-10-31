@@ -166,7 +166,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 <div style="display:block; padding:30px 0 0 0; width:900px;">
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
 </div>
@@ -178,7 +178,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </a>
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
 </div>
@@ -190,7 +190,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </a>
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
 </div>
@@ -202,7 +202,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </a>
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
 </div>
@@ -214,7 +214,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </a>
 
 <a href="javascript:;" target="_blank" class="speaker_profile">
-<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
 </div>
