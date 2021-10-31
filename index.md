@@ -196,7 +196,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Johannes Betz</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Postdoc<br>University of Pennsylvania</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Postdoctoral Researcher<br>University of Pennsylvania</p>
 </div>
 </div>
 </a>
