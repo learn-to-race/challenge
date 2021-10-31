@@ -385,20 +385,19 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Karthik Paga</li>
 <li>Cameron Peron</li>
 <li>Joao Semedo</li>
+<li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
-<!--li>Xinjie Abby Yao</li-->
-<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<!--li>Xinjie Abby Yao</li-->
+<li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
