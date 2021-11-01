@@ -165,19 +165,19 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 <div style="display:block; padding:10px 0 0 0; width:900px;">
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://arrival.com/us/en" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/max_kumskoy.png" alt="Max Kumskoy">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Max Kumskoy</p>
-<p style="margin:0 0 0 10px; font-size:10px;">Product Manager of Autonomous Driving<br>ARRIVAL</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Head of Automated Driving Systems<br>ARRIVAL</p>
 </div>
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://www.amazon.science/author/sahika-genc" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/sahika_genc.png" alt="Sahika Genc">
@@ -189,7 +189,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://joebetz.science/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/johannes_betz.png" alt="Johannes Betz">
@@ -201,7 +201,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://ece.princeton.edu/people/jaime-fernandez-fisac" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/jaime_fisac.png" alt="Jaime Fisac">
@@ -213,7 +213,19 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="speaker_profile">
+<a href="https://safeai-lab.github.io/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/ding_zhao.png" alt="Ding Zhao">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Ding Zhao</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
+</div>
+</div>
+</a>
+
+<a href="https://rowanmcallister.github.io/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/rowan_mcallister.png" alt="Rowan McAllister">
@@ -375,6 +387,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <!-- column 1 -->
 <div style="width:201px; display:inline-block;">
 <ul>
+<li>Madhav Achar</li>
 <li>Matthew Bauch</li>
 <li><a href="https://manojbhat09.github.io/" target="_blank">Manoj Bhat</a></li>
 <li>Shravya Bhat</li>
@@ -384,13 +397,13 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Ruoxin Huang</li>
 <li>Soonmin Hwang</li>
 <li>Sidharth Kathpal</li>
-<li>Ankit Laddha</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Ankit Laddha</li>
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Aarati Noronha</li>
@@ -400,13 +413,13 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Joao Semedo</li>
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
-<li>Jivko Sinapov</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
 <!--li>Xinjie Abby Yao</li-->
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
