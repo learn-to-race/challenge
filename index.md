@@ -238,7 +238,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
-<a href="https://www.ri.cmu.edu/robotics-groups/intelligent-control-lab/" target="_blank" class="speaker_profile">
+<a href="http://icontrol.ri.cmu.edu/" target="_blank" class="speaker_profile">
 <div style="display:inline-block; width:270px; margin:20px 0 0 0;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/changliu_liu.png" alt="Changliu Liu">
