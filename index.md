@@ -446,8 +446,8 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <ul>
 <li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
-<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
+<li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <!--li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
