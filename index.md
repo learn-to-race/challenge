@@ -262,6 +262,18 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 </div>
 </a>
 
+<a href="https://davheld.github.io/" target="_blank" class="speaker_profile">
+<div style="display:inline-block; width:270px; margin:20px 0 0 0;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/speakers/david_held.png" alt="David Held">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">David Held</p>
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor<br>Carnegie Mellon University</p>
+</div>
+</div>
+</a>
+
 </div>
 
 ## Challenge
