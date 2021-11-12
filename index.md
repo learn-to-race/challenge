@@ -433,13 +433,14 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Shivam Goel</li>
 <li>Ruoxin Huang</li>
 <li>Soonmin Hwang</li>
-<li>Sidharth Kathpal</li>
+<li>Jennifer Isaza</li>
 </ul>
 </div>
 
 <!-- column 2 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Sidharth Kathpal</li>
 <li>Ankit Laddha</li>
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
@@ -449,19 +450,18 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Cameron Peron</li>
 <li>Joao Semedo</li>
 <li>Aditya Sharma</li>
-<li>Yash Shukla</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
