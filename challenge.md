@@ -57,16 +57,9 @@ Please complete the following steps, in order to get started:
 * Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluation.  
 
 
-## Rules
-
-Participants will be:
-
-* limited to **1** submission every 24 hours
-* restricted from accessing model weights or custom logs during evaluation
-* required to submit source code, for top performers
 
 
-#### Competition Stages
+## Competition Stages
 
 The competition consists of 2 stages.
 * In Stage 1, participants will submit model checkpoints to AICrowd for evaluation on [Thruxton Circuit](https://thruxtonracing.co.uk/). The submissions will first be ranked on success rate, and then submissions with the same success rate will be ranked on average speed. Aside from Thruxton Circuit, additional race tracks are available in the Learn-to-Race environment for development.
@@ -77,6 +70,14 @@ The competition consists of 2 stages.
 * *Success Rate:* Each race track will be partitioned into a fixed number of segments and the success rate is calculated as the number of successfully completed segments over the total number of segments. If the agent fails at a certain segment, it will respawn stationarily at the beginning of the next segment. If the agent successfully completes a segment, it will continue on to the next segment carrying over the current speed.
 * *Average Speed:* Average speed is defined as the total distance traveled over time, which is used as a proxy for performance.
 * *Number of Safety Infractions:* The number of safety infractions is accumulated during the 1-hour 'practice' period in Stage 2 of the competition. The agent is considered to have incurred a safety infraction if 2 wheels of the vehicle leave the drivable area, the vehicle collides with an object, or does not make sufficient progress (e.g. get stuck). In Learn-to-Race, the episode terminates upon a safety infraction.  
+
+#### Rules
+
+Participants will be:
+
+* limited to **1** submission every 24 hours
+* restricted from accessing model weights or custom logs during evaluation
+* required to submit source code, for top performers
 
 ## Environment
 #### Action Space
