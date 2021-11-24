@@ -29,7 +29,7 @@ sidebar:
 
 Racing is the ultimate proving ground for automotive technology, which involves fast decision making in a complex, fast-changing environment. Learn-to-Race is a [Gym](https://gym.openai.com/)-compliant framework that enables autnomous agents to interact with a high-fidelity racing simulator. The objective of this competition is to push the boundary of autonomous technology through this challenging task, with focus on achieving the safety benefits of autonomous driving.
 
-Participants will be evaluated on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. Participants will also have access to the [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to develop their agents.
+Participants will be evaluated on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. Participants will also have access to [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to develop their agents.
 
 <div class="swiper swiper-demo">
   <div class="swiper__wrapper">
@@ -56,6 +56,28 @@ Please complete the following steps, in order to get started:
 * Clone the official code [repository](https://github.com/learn-to-race/l2r.git), to obtain the Learn-to-Race training framework and baselines.
 * Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluation.  
 
+
+## Rules
+
+Participants will be:
+
+* limited to **1** submission every 24 hours
+* restricted from accessing model weights or custom logs during evaluation
+* required to submit source code, for top performers
+
+
+#### Competition Stages
+
+The competition consists of 2 stages.
+* In Stage 1, participants will submit model checkpoints to AICrowd for evaluation on [Thruxton Circuit](https://thruxtonracing.co.uk/). The submissions will first be ranked on success rate, and then submissions with the same success rate will be ranked on average speed. Aside from Thruxton Circuit, additional race tracks are available in the Learn-to-Race environment for development.
+* The top 10 teams on the leader board will enter Stage 2, where their agents will be evaluated on an unseen track. The top-performing teams will submit their models (with checkpoints) to AICrowd for training on the unseen track for a fixed period of one hour. During the one-hour 'practice' period, participants are free to perform any model updates or exploration strategies of their choice. The number of safety infractions will be accumulated under the consideration that an autonomous agent should remain safe throughout its interaction with the environment. After the 'practice' period, the agent will be evaluated on the unseen track. The participating teams will first be ranked on success rate, and then submissions with the same success rate will be ranked on a weighted sum of the total number of safety infractions and the average speed. To prevent the participants from achieving high success rate by driving very slowly, we will set maximum episode length based on average speed of 30km/h during evaluation.
+
+
+#### Metrics
+* *Success Rate:* Each race track will be partitioned into a fixed number of segments and the success rate is calculated as the number of successfully completed segments over the total number of segments. If the agent fails at a certain segment, it will respawn stationarily at the beginning of the next segment. If the agent successfully completes a segment, it will continue on to the next segment carrying over the current speed.
+* *Average Speed:* Average speed is defined as the total distance traveled over time, which is used as a proxy for performance.
+* *Number of Safety Infractions:* The number of safety infractions is accumulated during the 1-hour 'practice' period in Stage 2 of the competition. The agent is considered to have incurred a safety infraction if 2 wheels of the vehicle leave the drivable area, the vehicle collides with an object, or does not make sufficient progress (e.g. get stuck). In Learn-to-Race, the episode terminates upon a safety infraction.  
+
 ## Environment
 #### Action Space
 
@@ -66,7 +88,8 @@ Please complete the following steps, in order to get started:
 
 #### Observation Space
 
-We do not restrict the usage of segmentation cameras nor the placement of cameras, including off-vehicle, during training. During evaluation, agents will only have access to RGB images from cameras placed on the front, right, and left of the vehicle as well as pose information.
+* We do not restrict the usage of pose information or segmentation cameras or the placement of cameras, including off-vehicle, during training. 
+* During evaluation, agents will only have access to RGB images from cameras placed on the front, right, and left of the vehicle as well as vehicle speed.
 
 ```python
 observation =
@@ -75,22 +98,8 @@ observation =
   'CameraLeftRGB': left_img, # numpy array of shape (width, height, 3)
   'CameraRightRGB': right_img, # numpy array of shape (width, height, 3)
   'track_id': track_id, # integer value associated with a specific racetrack
-  'pose': pose_array # numpy array of shape (30,), more detail below
+  'speed': speed # float value of vehicle speed in m/s
 }
-```
-
-```yaml
-0: steering request
-1: gear request
-2: nearest track index
-3-5: direction velocity in m/s
-6-8: directional acceleration in m/s^2
-9-11: directional angular velocity
-12-14: vehicle yaw, pitch, and roll, respectively
-15-17: center of vehicle coordinates in the format (y, x, z)
-18-21: wheel revolutions per minute (per wheel)
-22-25: wheel braking (per wheel)
-26-29: wheel torque (per wheel)
 ```
 
 #### Runtime Environment
@@ -208,25 +217,3 @@ sim_kwargs:
     DriverAPI_UDP_SendAddress: '0.0.0.0'
 ```
 
-## Evaluation
-
-#### Rules
-
-The task is to Learn-to-Race, so over-reliance on classical planning methods is not encouraged. Additionally, participants will be:
-
-* limited to **1** submission every 24 hours
-* restricted from accessing model weights or custom logs during evaluation
-* required to submit source code, for top performers
-
-
-#### Competition Stages
-
-The competition consists of 2 stages.
-* In Stage 1, participants will submit model checkpoints to AICrowd for evaluation on [Thruxton Circuit](https://thruxtonracing.co.uk/). The submissions will first be ranked on success rate, and then submissions with the same success rate will be ranked on average speed. Aside from Thruxton Circuit, additional race tracks are available in the Learn-to-Race environment for development.
-* The top 10 teams on the leader board will enter Stage 2, where their agents will be evaluated on an unseen track. The top-performing teams will submit their models (with initialization) to AICrowd for training on the unseen track for a fixed period of one hour. During the one-hour 'practice' period, participants are free to perform any model updates or exploration strategies of their choice. The number of safety infractions will be accumulated under the consideration that an autonomous agent should remain safe throughout its interaction with the environment. After the 'practice' period, the agent will be evaluated on the unseen track. The participating teams will first be ranked on success rate, and then submissions with the same success rate will be ranked on a weighted sum of the total number of safety infractions and the average speed. To prevent the participants from achieving high success rate by driving very slowly, we will set maximum episode length based on average speed of 30km/h during evaluation.
-
-
-#### Metrics
-* *Success Rate:* Each race track will be partitioned into a fixed number of segments and the success rate is calculated as the number of successfully completed segments over the total number of segments. If the agent fails at a certain segment, it will respawn stationarily at the beginning of the next segment. If the agent successfully completes a segment, it will continue on to the next segment carrying over the current speed.
-* *Average Speed:* Average speed is defined as the total distance traveled over time, which is used as a proxy for performance.
-* *Number of Safety Infractions:* The number of safety infractions is accumulated during the 1-hour 'practice' period in Stage 2 of the competition. The agent is considered to have incurred a safety infraction if 2 wheels of the vehicle leave the drivable area, the vehicle collides with an object, or does not make sufficient progress (e.g. get stuck). In Learn-to-Race, the episode terminates upon a safety infraction.  
