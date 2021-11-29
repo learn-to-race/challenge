@@ -1,7 +1,7 @@
 ---
 layout: article
-title: Safe Learning for Autonomous Driving
-excerpt: + Autonomous Racing Virtual Challenge
+title:
+excerpt:
 show_info: true
 titles:
   en      : &EN       Home
@@ -16,7 +16,7 @@ article_header:
   theme: dark   
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
-    src: /assets/images/devbot.png
+    src: /assets/images/l2r_banner.jpg
 ---
 
 <style>
@@ -43,9 +43,6 @@ article_header:
     margin: 20px 0 0 0;
 }
 
-ul.menu li::after {
-    content:"29 November 2021 - 31 January 2022";
-}
 
 ul.menu a {
     display: none;
