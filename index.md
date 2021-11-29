@@ -16,7 +16,7 @@ article_header:
   theme: dark   
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
-    src: /assets/images/devbot.png
+    src: /assets/images/l2r_banner.png
 ---
 
 <style>
@@ -442,6 +442,7 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <ul>
 <li>Sidharth Kathpal</li>
 <li>Ankit Laddha</li>
+<li>Jingyuan Li</li>
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Aarati Noronha</li>
@@ -449,20 +450,19 @@ Multiple Learn-to-Race Challenges will available soon: please find more informat
 <li>Karthik Paga</li>
 <li>Cameron Peron</li>
 <li>Joao Semedo</li>
-<li>Aditya Sharma</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
+<li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
 <li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <!--li>&nbsp;</li>
-<li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
 <li>&nbsp;</li>
