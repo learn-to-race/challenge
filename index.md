@@ -294,7 +294,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
   <div class="swiper__button swiper__button--next fas fa-chevron-right"></div>
 </div>
 
-The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now!</a>
+The Learn-to-Race Autonomous Racing Virtual Challenge is now active on our AIcrowd Challenge/Leaderboard page: <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge" target="_blank">Participate now</a>!
 
 ## Organisers
 
