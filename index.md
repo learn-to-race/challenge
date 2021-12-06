@@ -299,7 +299,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 
 <div style="display:inline; width:900px; vertical-align: top;">
 
-<a href=https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
