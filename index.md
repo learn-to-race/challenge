@@ -14,6 +14,7 @@ article_header:
   actions: 6 December 2021 - 15 February 2022
   type: overlay
   theme: dark   
+  call-action-area: Participate!
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/devbot.png
