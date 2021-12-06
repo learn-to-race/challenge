@@ -11,7 +11,6 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
-  actions: 6 December 2021 - 15 February 2022
   type: overlay
   theme: dark   
   call-action-area: Participate!
