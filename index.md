@@ -11,7 +11,7 @@ titles:
   en-AU   : *EN
 key: page-home
 article_header:
-  actions: 29 November, 2021 - 31 January, 2022
+  actions: 6 December 2021 - 15 February 2022
   type: overlay
   theme: dark   
   background_image:
@@ -44,7 +44,7 @@ article_header:
 }
 
 ul.menu li::after {
-    content:"29 November 2021 - 31 January 2022";
+    content:"6 December 2021 - 15 February 2022";
 }
 
 ul.menu a {
@@ -99,7 +99,7 @@ img {
 
 <script>
 
-  var countDownDate = new Date("Jan 31, 2022 23:59:59 UTC").getTime();  
+  var countDownDate = new Date("Feb 15, 2022 23:59:59 UTC").getTime();  
   countDownDate = countDownDate + 1000 * 3600 * 12
 
 
@@ -153,9 +153,9 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ### Challenge
 
-> <b>Open:</b> 29 November 2021<br>
-> <b>Close:</b> 31 January 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
-> <b>Winners notification:</b> 15 February 2022
+> <b>Open:</b> 6 December 2021<br>
+> <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
+> <b>Winners notification:</b> 21 February 2022
 
 ### Workshop
 
