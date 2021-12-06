@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: + Autonomous Racing Virtual Challenge
+excerpt: + <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Autonomous Racing Virtual Challenge</a>
 show_info: true
 titles:
   en      : &EN       Home
@@ -134,7 +134,7 @@ img {
 
 ## About
 
-Welcome to the Learn-to-Race Challenge on <i>Safe Learning in Autonomous Driving</i>.
+Welcome to the Learn-to-Race Autonomous Racing Virtual Challenge on <i>Safe Learning for Autonomous Driving</i>.
 
 As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.<br>
 
