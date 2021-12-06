@@ -299,7 +299,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 
 <div style="display:inline; width:900px; vertical-align: top;">
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href=https://www.linkedin.com/in/jonmfrancis/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/jonathan_francis.png" alt="Jonathan Francis">
@@ -325,7 +325,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/bingqing-chen-631b754a/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/bingqing_chen.png" alt="Bingqing Chen">
@@ -338,7 +338,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/jimmy-herman/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
@@ -351,7 +351,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/gtatiya" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
@@ -364,7 +364,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="javascript:;" target="_blank" class="organiser_profile">
+<a href="https://www.linkedin.com/in/hitesharora11" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
 <img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/hitesh_arora.png" alt="Hitesh Arora">
