@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: + <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Autonomous Racing Virtual Challenge</a>
+excerpt: + Autonomous Racing Virtual Challenge
 show_info: true
 titles:
   en      : &EN       Home
