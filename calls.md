@@ -78,8 +78,8 @@ We will follow the submission guidelines specified by ICLR 2022 which can be fou
 
 ## Important Dates (all tracks)
 
-- Challenge entry submission deadline (to be featured at the Workshop): 31 January 2022, 12:00 UTC
-- Challenge winners notification (private): 15 February 2022
+- Challenge entry submission deadline (to be featured at the Workshop): 15 February 2022, 12:00 UTC
+- Challenge winners notification (private): 21 February 2022
 - Paper submission (all tracks: paper, challenge): 28 February 2022, 12:00 UTC
 - Reviewing starts: 1 March 2022, 12:00 UTC
 - Reviewing ends: 20 March 2022, 12:00 UTC
