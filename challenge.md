@@ -50,14 +50,7 @@ Participants will be evaluated on an unseen track, the North Road Track at the L
 
 ## Getting Started
 
-Please complete the following steps, in order to get started:
-
-* Please complete the [form](https://docs.google.com/forms/d/e/1FAIpQLSfVOTTEuWjST6den18JRFN4BehLRYMjRJk-elYMaiInUoHUqg/viewform), in order to obtain the simulator.
-* Clone the official code [repository](https://github.com/learn-to-race/l2r.git), to obtain the Learn-to-Race training framework and baselines.
-* Review the additional [instructions](https://github.com/learn-to-race/l2r/blob/main/instructions.txt), for more information on installation, running agents, and evaluation.  
-
-
-
+Please visit our AICrowd <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Challenge</a> page, in order to get started!
 
 ## Competition Stages
 
@@ -89,7 +82,7 @@ Participants will be:
 
 #### Observation Space
 
-* We do not restrict the usage of pose information or segmentation cameras or the placement of cameras, including off-vehicle, during training. 
+* We do not restrict the usage of pose information or segmentation cameras or the placement of cameras, including off-vehicle, during training.
 * During evaluation, agents will only have access to RGB images from cameras placed on the front, right, and left of the vehicle as well as vehicle speed.
 
 ```python
@@ -217,4 +210,3 @@ sim_kwargs:
     DriverAPIClass: 'VApiUdp'
     DriverAPI_UDP_SendAddress: '0.0.0.0'
 ```
-
