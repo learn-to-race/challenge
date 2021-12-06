@@ -1,7 +1,7 @@
 ---
 layout: article
 title: Safe Learning for Autonomous Driving
-excerpt: + Autonomous Racing Virtual Challenge
+excerpt: + <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Autonomous Racing Virtual Challenge</a>
 show_info: true
 titles:
   en      : &EN       Home
@@ -12,8 +12,7 @@ titles:
 key: page-home
 article_header:
   type: overlay
-  theme: dark   
-  call-action-area: Participate!
+  theme: dark
   background_image:
     gradient: 'linear-gradient(135deg, rgba(52, 140, 96, 0.4), rgba(136, 73, 107, 0.4))'
     src: /assets/images/devbot.png
