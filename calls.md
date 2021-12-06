@@ -57,7 +57,7 @@ We will follow the submission guidelines specified by ICLR 2022 which can be fou
 - Jonathan Francis; CMU + Bosch Research
 - Siddha Ganju; NVIDIA
 - Bingqing Chen; CMU
-- James Herman; CMU + Intellimize
+- James Herman; Intellimize
 - Gyan Tatiya; Tufts
 - Hitesh Arora; Amazon
 - Sylvia L. Herbert; UCSD
