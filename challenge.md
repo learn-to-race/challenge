@@ -27,7 +27,7 @@ sidebar:
 
 # Challenge Overview
 
-Racing is the ultimate proving ground for automotive technology, which involves fast decision making in a complex, fast-changing environment. For this challenge, we use the <a href-"https://learn-to-race.org" target="_blank">Learn-to-Race</a> framework, which is an OpenAI-gym compliant training environment that enables autonomous agents to interact with a high-fidelity racing simulator. The objective of this competition is to push the boundary of autonomous technology through this challenging task, with focus on achieving the safety benefits of autonomous driving.
+Racing is the ultimate proving ground for automotive technology, which involves fast decision making in a complex, fast-changing environment. For this challenge, we use the <a href="https://learn-to-race.org" target="_blank">Learn-to-Race</a> framework, which is an OpenAI-gym compliant training environment that enables autonomous agents to interact with a high-fidelity racing simulator. The objective of this competition is to push the boundary of autonomous technology through this challenging task, with focus on achieving the safety benefits of autonomous driving.
 
 Participants will be evaluated on an unseen track, the North Road Track at the Las Vegas Motor Speedway, *left*, but have the opportunity to explore the environment with unfrozen model weights for a 1-hour prior to evaluation laps similar to a professional race car driver's practice session. Participants will also have access to [Anglesey National](https://www.angleseycircuit.com/), *middle*, and [Thruxton Circuit](https://thruxtonracing.co.uk/), *right*, racetracks to develop their agents.
 
