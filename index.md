@@ -312,19 +312,6 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Siddha Ganju</p>
-<!--p style="margin:0 0 0 10px;">NVIDIA</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
-</div>
-</div>
-</a>
-
 <a href="https://www.linkedin.com/in/bingqing-chen-631b754a/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
@@ -338,28 +325,41 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/jimmy-herman/" target="_blank" class="organiser_profile">
+<a href="https://xinshuoweng.com/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/james_herman.png" alt="James Herman">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/xinshuo_weng.png" alt="Xinshuo Weng">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">James Herman</p>
+<p style="margin:0 0 0 10px;">Xinshuo Weng</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Researcher at Carnegie Mellon University, focusing on distributed training and simulation in reinforcement learning</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at CMU, focusing on 3D computer vision and generative models for autonomous systems</p>
 </div>
 </div>
 </a>
 
-<a href="https://www.linkedin.com/in/gtatiya" target="_blank" class="organiser_profile">
+<a href="https://danielomeiza.github.io/" target="_blank" class="organiser_profile">
 <div style="display:inline-block; width:270px;">
 <div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/gyan_tatiya.png" alt="Gyan Tatiya">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/daniel_omeiza.png" alt="Daniel Omeiza">
 </div>
 <div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Gyan Tatiya</p>
+<p style="margin:0 0 0 10px;">Daniel Omeiza</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Tufts, focusing on knowledge transfer across robot morphologies and embodied multimodal navigation</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Oxford, focusing on explainable AI and decision-making, in autonomous driving</p>
+</div>
+</div>
+</a>
+
+<a href="https://www.linkedin.com/in/sidgan/" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/siddha_ganju.png" alt="Siddha Ganju">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Siddha Ganju</p>
+<!--p style="margin:0 0 0 10px;">NVIDIA</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Researcher and Data Scientist at NVIDIA, focusing on computer vision optimization for vehicle autonomy and medical instruments</p>
 </div>
 </div>
 </a>
@@ -373,19 +373,6 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <p style="margin:0 0 0 10px;">Hitesh Arora</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Researcher at Amazon, focusing on multimodal perception and reinforcement learning, applied to autonomous driving</p>
-</div>
-</div>
-</a>
-
-<a href="https://sylviaherbert.com" target="_blank" class="organiser_profile">
-<div style="display:inline-block; width:270px;">
-<div style="display:inline-block; width:101px;">
-<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
-</div>
-<div style="display:inline-block; width:150px; line-height:1.4;">
-<p style="margin:0 0 0 10px;">Sylvia Herbert</p>
-<!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
 </div>
 </div>
 </a>
@@ -412,6 +399,19 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <p style="margin:0 0 0 10px;">Eric Nyberg</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
 <p style="margin:0 0 0 10px; font-size:10px;">Professor of Computer Science at CMU and Program Director, Masters of Computational Data Science; hybrid reasoning systems and artificial intelligence</p>
+</div>
+</div>
+</a>
+
+<a href="https://sylviaherbert.com" target="_blank" class="organiser_profile">
+<div style="display:inline-block; width:270px;">
+<div style="display:inline-block; width:101px;">
+<img style="width:100px; height:100px; position: relative; bottom: 40px;" src="/challenge/assets/images/organizers/sylvia_herbert.png" alt="Sylvia Herbert">
+</div>
+<div style="display:inline-block; width:150px; line-height:1.4;">
+<p style="margin:0 0 0 10px;">Sylvia Herbert</p>
+<!--p style="margin:0 0 0 10px;">CMU</p-->
+<p style="margin:0 0 0 10px; font-size:10px;">Assistant Professor at UCSD and Director of Safe Autonomous Systems Lab; uncertainty modeling in control, safety-aware learning, autonomy</p>
 </div>
 </div>
 </a>
