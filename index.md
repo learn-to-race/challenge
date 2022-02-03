@@ -346,7 +346,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <div style="display:inline-block; width:150px; line-height:1.4;">
 <p style="margin:0 0 0 10px;">Daniel Omeiza</p>
 <!--p style="margin:0 0 0 10px;">CMU</p-->
-<p style="margin:0 0 0 10px; font-size:10px;">PhD candidate at Oxford, focusing on explainable AI and decision-making, in autonomous driving</p>
+<p style="margin:0 0 0 10px; font-size:10px;">PhD student at Oxford, focusing on explainable AI and decision-making, in autonomous driving</p>
 </div>
 </div>
 </a>
