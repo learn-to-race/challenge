@@ -144,6 +144,7 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ### Paper Submission
 
+> <b>Submissions open:</b> 2 March 2022<br>
 > <b>Submissions due:</b> 13 May 2022<br>
 > <b>Reviewing starts:</b> 14 May 2022<br>
 > <b>Reviewing ends:</b> 30 May 2022<br>
