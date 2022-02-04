@@ -149,16 +149,18 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 > <b>Reviewing ends:</b> 30 May 2022<br>
 > <b>Notification:</b> 3 June 2022<br>
 > <b>Camera Ready</b> + Video upload: 17 June 2022
+> <b>Workshop</b>: 23 July 2022
 
 ### Challenge
 
 > <b>Open:</b> TBD<br>
 > <b>Close:</b> TBD<br>
-> <b>Winners notification:</b> TBD
+<!-- > <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>-->
+> <b>Winners notification:</b> 21 February 2022
 
 ### Workshop
 
-> <b>Event:</b> 23 July 2022
+> <b>Event:</b> 29 April 2022
 
 ## Speakers
 
