@@ -432,6 +432,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li>Joe Fontaine</li>
 <li>Sahika Genc</li>
 <li>Shivam Goel</li>
+<li>James Herman</li>
 <li>Ruoxin Huang</li>
 <li>Soonmin Hwang</li>
 <li>Jennifer Isaza</li>
@@ -460,6 +461,7 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
+<li>Gyan Tatiya</li>
 <li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
