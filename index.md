@@ -448,21 +448,19 @@ The Learn-to-Race Autonomous Racing Virtual Challenge is now active. <a href="ht
 <li>Sharada Mohanty</li>
 <li><a href="https://navars.xyz/" target="_blank">Ingrid Navarro</a></li>
 <li>Aarati Noronha</li>
-<li>Daniel Omeiza</li>
 <li>Karthik Paga</li>
 <li>Cameron Peron</li>
+<li>Joao Semedo</li>
 </ul>
 </div>
 
 <!-- column 3 -->
 <div style="width:201px; display:inline-block; vertical-align: top;">
 <ul>
-<li>Joao Semedo</li>
 <li>Aditya Sharma</li>
 <li>Yash Shukla</li>
 <li>Jivko Sinapov</li>
 <li>Gyan Tatiya</li>
-<li>Xinshuo Weng</li>
 <li><a href="https://github.com/weirayao" target="_blank">Weiran Yao</a></li>
 <li><a href="https://xyaoab.github.io/" target="_blank">Xinjie Yao</a></li>
 <!--li>&nbsp;</li>
