@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Safe Learning for Autonomous Driving
+title: Artificial Intelligence for Autonomous Driving
 excerpt: + <a href="https://www.aicrowd.com/challenges/learn-to-race-autonomous-racing-virtual-challenge">Autonomous Racing Virtual Challenge</a>
 show_info: true
 titles:
@@ -134,7 +134,7 @@ img {
 
 ## About
 
-Welcome to the Learn-to-Race Autonomous Racing Virtual Challenge on <i>Safe Learning for Autonomous Driving</i>.
+Welcome to the Learn-to-Race Autonomous Racing Virtual Challenge on <i>Artificial Intelligence for Autonomous Driving</i>.
 
 As autonomous technology approaches maturity, it is of paramount importance for autonomous vehicles to adheres to safety specifications, whether in urban driving or high-speed racing. Racing demands each vehicle to drive at its physical limits with barely any margin for safety, when any infraction could lead to catastrophic failures. Given this inherent tension, we envision autonomous racing to serve as a particularly challenging proving ground for safe learning algorithms.<br>
 
@@ -144,21 +144,21 @@ We propose the Safe Learning for Autonomous Driving workshop, as a venue for res
 
 ### Paper Submission
 
-> <b>Submissions due:</b> 28 February 2022<br>
-> <b>Reviewing starts:</b> 1 March 2022<br>
-> <b>Reviewing ends:</b> 20 March 2022<br>
-> <b>Notification:</b> 24 March 2022<br>
-> <b>Camera Ready</b> + Video upload: 15 April 2022
+> <b>Submissions due:</b> 13 May 2022<br>
+> <b>Reviewing starts:</b> 14 May 2022<br>
+> <b>Reviewing ends:</b> 30 May 2022<br>
+> <b>Notification:</b> 3 June 2022<br>
+> <b>Camera Ready</b> + Video upload: 17 June 2022
 
 ### Challenge
 
-> <b>Open:</b> 6 December 2021<br>
-> <b>Close:</b> 15 February 2022 at 23:59 UTC: <b><span id="countdown"></span></b><br>
-> <b>Winners notification:</b> 21 February 2022
+> <b>Open:</b> TBD<br>
+> <b>Close:</b> TBD<br>
+> <b>Winners notification:</b> TBD
 
 ### Workshop
 
-> <b>Event:</b> 29 April 2022
+> <b>Event:</b> 23 July 2022
 
 ## Speakers
 
