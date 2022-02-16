@@ -26,15 +26,34 @@ Existing research on autonomous driving primarily focuses on urban driving, whic
 
 We are accepting papers in the following broad areas of safe vehicle autonomy, including (but not limited to) the following:
 
-- Safe learning;  Constrained reinforcement learning;
-- Safety verification; Certifying learning-based control under dynamics uncertainty; Dependability analysis for learning-based systems;
-- Learning vehicle dynamics at high-speeds; Learning uncertain and potentially unstable dynamics to safely improve performance;
-- Learning to drive from expert demonstrations;
-- Representation learning and scene understanding; Robustness to novel and out-of-distribution scenarios;
-- Online optimisation and fast decision-making;
-- Transfer learning from simulation to real-world; Meta learning; Domain adaptation;
-- Autonomous vehicles and smart mobility;
-- Interpretability, explainability for autonomous systems
+- Safe reinforcement learning, safe exploration, constrained reinforcement learning
+- Safe learning approaches inspired by control theory, e.g. control barrier function, Lyapunov method, reachability analysis
+- Safety verification, Certifying learning-based control under dynamical uncertainty, Dependability analysis for learning-based systems
+- Robustness to out-of-distribution road scenes
+- Learning vehicle dynamics at high-speeds and in unstable regimes
+- Vision-based perception and scene understanding for autonomous driving; Representation learning
+- Transfer learning from simulation to real-world; Meta-learning; Domain Adaptation;
+- End-to-end and real-time autonomous driving systems
+- Novel automotive sensors and their applications
+- Behavior prediction of pedestrians, vehicles, and animals
+- Self/semi/weakly-supervised learning, domain adaptation for autonomous driving
+- Multi-task learning in autonomous driving
+- Explainability in autonomous driving
+- Learning to drive via imitation learning
+- Uncertainty propagation through autonomous driving pipelines
+- Planning and control for autonomous driving
+- Cooperative and competitive multi-agent systems
+- Visual grounding and its application to autonomous driving
+- Visual-language navigation for self-driving
+- Audio-visual navigation for self-driving
+- Auditory Perception (detection, tracking, segmentation, motion estimation, etc)
+- Brain-inspired autonomous control systems
+- Human factors in autonomous driving
+- AI ethics in autonomous driving
+- Autonomous driving datasets
+- Evaluation and metrics of autonomous driving tasks
+- Connected autonomous driving and vehicle-to-vehicle communication
+- Autonomous driving for traffic management and emission reduction
 
 ## Workshop Challenge Topics
 
