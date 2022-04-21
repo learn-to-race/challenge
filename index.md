@@ -18,6 +18,11 @@ article_header:
     src: /assets/images/l2r_banner2.png
 ---
 
+<meta charset="utf-8">
+<title>Redirecting to https://learn-to-race.org/workshops/</title>
+<meta http-equiv="refresh" content="0; URL=https://learn-to-race.org/workshops/">
+<link rel="canonical" href="https://learn-to-race.org/workshops/">
+
 <style>
 .article__header--overlay .overlay {
     min-height: 36rem;
